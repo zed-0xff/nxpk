@@ -12,6 +12,7 @@ rm -rf out
 ../nxpk.rb x **/*.npk
 
 echo "[.] derotoring nxs scripts .."
+docker build ../derotor -t derotor
 docker run -ti -v .:/data derotor
 
 echo "[.] decrypting redirect.nxs and neox.xml .."

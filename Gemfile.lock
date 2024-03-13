@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    iostruct (0.0.5)
+    plist (3.7.1)
+    rainbow (3.1.1)
+    zhexdump (0.0.2)
+    zpng (0.4.5)
+      rainbow (~> 3.1.1)
+
+PLATFORMS
+  arm64-darwin-22
+  ruby
+
+DEPENDENCIES
+  awesome_print (~> 1.9)
+  iostruct (~> 0.0.5)
+  plist (~> 3.7)
+  zhexdump (~> 0.0.2)
+  zpng (~> 0.4.5)
+
+BUNDLED WITH
+   2.5.6

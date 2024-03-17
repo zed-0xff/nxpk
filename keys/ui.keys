@@ -1,0 +1,1858 @@
+000d63dc images\dts_item\package\icn_dts_bq_ks.png
+0017ca8b in_game\in_game_effect\serverlist_circle\serverlist_circle.plist
+0023dd98 
+0068a900 _international\en\ui\in_game\ui_player_info\ui_player_info.plist
+00bba869 images\dts_item\tips\img_beixin_gaoqu.png
+00d256a1 in_game\ui_rank_list\ranklist.dds
+00d2a8a6 
+00da2fb2 in_game\ui_battlegrounds_in_game\effectfight\effectcar.csb
+010736d1 
+01334d29 _international\en\ui\out_game\ui_login\ui_login_en.plist
+01401617 images\dts_item\tips\img_yurongbeixin2.png
+01577768 in_game\ui_player_info\txt_purista_20_03.dds
+015d7f45 images\dts_item\icn_dts_gun_real_20_02.png
+015ef3a7 images\dts_item\pick\icn_dts_kssq_knife_04.png
+01714414 images\dts_item\icn_dts_gun_01_up.png
+017e016f in_game\guide\fx_huadongmiaozhun.csb
+01955f7d _international\jp\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher.csb
+01bda23d in_game\mini_map\dts_mark.plist
+01c230f6 in_game\ui_bug_report\ui_bug_report.plist
+01e808de in_game\ui_aim\ui_aim_cross.csb
+01fbde21 
+021dee09 images\dts_item\tips\img_misebeixin.png
+024de035 in_game\ui_dialog\invitationdialog.csb
+0268e1c3 _international\jp\ui\in_game\ui_player_tip\ui_player_tip.plist
+026a7a59 out_game\ui_main_v2\csd\minichatlayer.csb
+030025ce _international\en\ui\out_game\ui_main_v2\csd\battlegroundmatchtimer.csb
+0385fe56 images\equip_area\icn_dts_gun_real_14.png
+039668d8 in_game\ui_player_info\txt_character_level.dds
+03966932 
+03991d86 images\dts_item\pick\icn_dts_kssq_wp_9.png
+03aafad2 in_game\ui_dts_package\ui_dts_package.dds
+03f5b745 
+04016a50 images\dts_item\icn_dts_gun_17_down.png
+040335a6 images\dts_item\pick\icn_dts_kssq_zb_13.png
+040c81b2 images\dts_item\package\icn_dts_knife_03.png
+041b1a13 images\dts_item\pick\img_beixin_youxigou.png
+04508837 
+0452d4ad out_game\ui_user_agreement\user_agreement.plist
+047750a3 images\common_tex_plist\dan_icon.dds
+0490c958 out_game\ui_loading\ui_loading.plist
+04b001fd images\dts_item\icn_dts_gun_real_13_02.png
+04bf63c6 out_game\ui_cclive\ui_cclive.csb
+04ca2edb in_game\ui_target_hint\img_xs_arrow.alpha.dds
+04d12101 
+050e5015 images\dts_item\pick\icn_dts_kssq_gun_17.png
+051c5878 _international\jp\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall_jp.alpha.dds
+05846f47 
+05fa56d9 images\loading\loading_14.alpha.dds
+062e2e95 
+06575005 in_game\ui_player_tip\ui_hall_player_tip.csb
+066586df images\equip_area\icn_dts_jjq_ks_02.png
+066e27b6 images\dts_item\icn_dts_gun_21_up.png
+067289c4 images\dts_item\pick\icn_dts_kssq_pj_07.png
+068bb1ed 
+068f1a92 
+06a443f9 images\dts_item\gun_info\icn_gun05.png
+06a92416 in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.dds
+06c4b00a _international\en\ui\out_game\ui_main_v2\ui_main_v2_en.dds
+071c406b 
+07ba68aa images\common_tex_plist\common_tex.dds
+0806b9b8 _international\en\ui\in_game\ui_settings\ui_settings.plist
+086090bd in_game\ui_battlegrounds_in_game\effectfight\effectdanger_b2.csb
+08643f43 images\dts_item\tips\img_beixin_youmin.png
+08c70232 in_game\ui_supply_package\ui_payment.csb
+08cb3fd9 in_game\ui_chat\ui_chat.dds
+08cb67a9 _international\en\ui\in_game\ui_player_tip\ui_player_tip.csb
+0922c8c0 images\dts_item\tips\img_beixin_youxia.png
+096383f4 
+09904291 
+099cdc7d 
+09ae08b2 out_game\ui_gift\gift.alpha.dds
+09e43091 
+09e50fc8 
+0a0ba6ce in_game\damage_text\damage_text0.plist
+0a3f9cfc 
+0a4a9b98 
+0a70d924 
+0a71ea17 
+0aba20cd 
+0acef5e9 out_game\ui_login\loginpanel\ui_select_character.csb
+0ada6d30 g89na\ui_language\language_choose.plist
+0b382898 in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.dds
+0b40af50 images\dts_item\gun_name\img_name_26.png
+0b40d344 images\dts_item\icn_dts_gun_real_27_02.png
+0b9db5eb images\dts_item\tips\img_zhuiliezheyi.png
+0ba2ddc3 out_game\ui_gm_panel\ui_gm_panel.csb
+0bafd890 
+0bb481b3 _international\jp\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.plist
+0bfe5fb9 
+0c1e452f out_game\ui_custom_room_entrance\ui_custom_room_property.csb
+0c72347a images\dts_item\main\10.png
+0cb47811 images\minimap\dts_poison.png
+0cbabc6f in_game\ui_load_bullet\txt_reload_01.dds
+0cbc7d3d _international\jp\ui\in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.plist
+0cc3b3ab 
+0d0553a3 in_game\ui_chat\ui_chat.csb
+0d515a91 
+0d7d26d3 _international\en\ui\out_game\ui_login\ui_login_en.dds
+0d9f3eab _international\en\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall_en.alpha.dds
+0dda1189 
+0ddff057 
+0df5531e in_game\ui_money_exchange\ui_money_exchange.csb
+0dfa360a images\dts_item\pick\img_beixin_shihou.png
+0e72b8f8 images\dts_item\tips\icn_dts_head_03_tips.png
+0e74d644 out_game\ui_login\loginpanel\login2.alpha.dds
+0e7700fd 
+0e880ac8 _international\en\ui\in_game\ui_battlegrounds_result\tx_effect.csb
+0e97d49b images\dts_item\pick\img_beixin_huawei.png
+0e9dec6f out_game\ui_main_v2\csd\battlegroundmatchtimer.csb
+0ec1cf75 images\dts_item\pick\img_beixin_douyu1.png
+0ed4e651 images\dts_item\package\icn_dts_guns_18.png
+0ee8a37e in_game\ui_handphone_verify\ui_handphone_verify.dds
+0f5a48ae images\dts_item\pick\img_wuxiuweiyi3.png
+0f81e2f7 
+0fb2634d images\dts_item\tips\img_beixin_4399.png
+0fef3b99 
+100c2f52 in_game\ui_debug\ui_debug.dds
+1033e5d4 out_game\ui_user_agreement\user_agreement.alpha.dds
+103c4592 in_game\ui_consume_dialog\ui_consume_dialog.plist
+1041382e images\dts_item\pick\img_zhuiliezheyi.png
+107c263f 
+107da1ac 
+1088c1c8 
+109131ce images\dts_item\tips\img_beixin_huya1.png
+10c2c6db in_game\ui_consume_dialog\ui_consume_dialog.alpha.dds
+10c2cf5a in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher.alpha.dds
+1103f2b5 images\dts_item\pick\img_xiaofang_leg_male.png
+1110e7fd 
+11b45ae6 images\dts_item\pick\icn_dts_kssq_gun_15.png
+11b55bee images\loading\bg_loading_04.dds
+11d16e43 images\loading\loading_12.alpha.dds
+11e87bc8 images\dts_item\share\img_blue_box.png
+11f7a147 images\loading\loading_1.alpha.dds
+120c94fd out_game\ui_offline_screen_controller\offline.alpha.dds
+12117204 out_game\ui_system_guide\ui_system_guide.plist
+12186151 
+121d2cb0 images\dts_item\icn_dts_gun_09_up.png
+12a7b2f4 
+12a8c72b g89na\ui_pc_prelogin\prelogin.alpha.dds
+12b7404d images\dts_appearance\body\img_beixin_kaola.alpha.dds
+12c0a115 _international\en\ui\in_game\ui_dts_map\ui_dts_map_en.alpha.dds
+12c76668 
+12cc4846 images\progressbar\huipache.png
+12d1f0af images\equip_area\icn_dts_cfq_bcq_02.png
+12ed74c9 in_game\guide\fx_huadongzhuanxiang.csb
+1337980a 
+1337a989 images\loading\bg_loading_04.alpha.dds
+133a80c2 images\loading\bg_loading_irontown.alpha.dds
+13620f9d 
+1378ace5 out_game\ui_cclive\ui_ccshow.csb
+138e0c14 images\dts_item\pick\icn_dts_kssq_pj_14.png
+1406415b images\dts_item\tips\icn_dts_knife_02_tips.png
+140feedd 
+141a3cdd g89na\ui_pc_res\btn_fight_pick_w.dds
+1422a658 in_game\ui_enemy_vehicle_icon\ui_enemy_vehicle_icon0.plist
+144fa74e images\dts_item\tips\img_beixin_youxigou.png
+146bc829 
+14774367 out_game\ui_cclive\ui_ccinfo.csb
+1477f793 
+149068e4 
+1493c54f out_game\ui_cclive\ui_ccwatch.csb
+14a7c38a images\dts_item\tips\icn_dts_pack_tips_03.png
+14bd07d2 images\dts_item\gun_name\img_name_30.png
+14d5ce50 images\dts_item\pick\icn_dts_kssq_gun_21.png
+14d5d801 
+14fdba4d in_game\ui_dts_package2\ui_dts_package2.csb
+1543206c images\dts_item\useimg\icn_useimg_02.png
+1568b0c3 in_game\ui_battlegrounds_god_observer\ui_battleground_god_observer.alpha.dds
+1574e338 images\dts_item\pick\img_beixin_sina.png
+15b4cf91 _international\jp\ui\in_game\ui_dts_dialogue\ui_dts_dialogue_jp.dds
+15b74677 in_game\in_game_effect\prepare\prepare.dds
+15edc524 
+15f43732 _international\jp\ui\in_game\ui_settings\ui_settings_jp.dds
+1623b290 
+164aee6f images\dts_item\useimg\icn_useimg_03.png
+1675071d images\loading\loading_7.alpha.dds
+168e71f7 images\dts_item\gun_name\img_name_13.png
+16924e9d images\dts_item\pick\icn_dts_kssq_pj_03.png
+16bcedca out_game\ui_main_v2\csd\battlegroundqualifying.csb
+16dbd886 in_game\text_tips\text_tips_0.plist
+170095d8 
+1706cbd9 images\dts_item\icn_dts_newgun_62.png
+17319ee1 in_game\guide\fx_guanbishiqu.csb
+173a8806 scenario\scenario.exportjson
+1762558b effect\suoding\suoding0.alpha.dds
+177a2774 
+17d87c8f in_game\ui_chat\ui_chat_infight.alpha.dds
+17e74625 in_game\in_game_effect\prepare\prepare.plist
+18031256 
+180d41bf in_game\ui_battlegrounds_result\chicken.alpha.dds
+1810d49a images\common_tex_plist\dan_icon.alpha.dds
+182d9864 images\dts_item\tips\img_wuxiuweiyi4.png
+18826d0d 
+18f4947b images\dts_item\pick\img_beixin_benshouji.png
+1901ce35 _international\jp\ui\in_game\ui_social_share\ui_social_share.csb
+194af2e3 in_game\shot_info_badge\shot_info_badge.exportjson
+19a6d555 out_game\ui_beginner_guide\ui_beginner_guide0.dds
+19ad426e images\dts_item\useimg\icn_useimg_05.png
+19c075c6 in_game\tx_change_tip\plist1.plist
+19c8e6b3 in_game\ui_friendship\add_friend_panel.csb
+19d9083c images\loading\loading_10.dds
+1a63848a out_game\ui_custom_room_entrance\ui_custom_ob_room.csb
+1a86a33e _international\jp\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage_jp.dds
+1ab28c3c 
+1af2e6bf in_game\ui_battlegrounds_result\txt_point_01.dds
+1afb2fa2 
+1b1dd2fe 
+1b337335 in_game\ui_battlegrounds_in_game\effectfight\effecttxtanim.csb
+1b654dc6 images\equip_area\icn_dts_jjq_kskr_02.png
+1b73b7a2 
+1ba22ef9 
+1bc42882 _international\jp\ui\out_game\ui_login\loginpanel\layer.csb
+1bcc7bff images\dts_item\tips\img_beixin_tap.png
+1be98aab images\loading\loading_0.dds
+1be9b4d7 
+1c0e3b12 
+1c219c7d in_game\ui_load_bullet\ui_load_bullet.alpha.dds
+1c5a43b5 out_game\trace\trace.dds
+1c74318f _international\jp\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game_jp.plist
+1ca2f702 images\dts_item\pick\img_zhuiliezheku.png
+1cbcc315 in_game\ui_battlegrounds_result\ui_battlegrounds_result.csb
+1cd3fac3 images\dts_item\package\icn_dts_jjq_ks.png
+1cd43826 images\dts_item\tips\img_beixin_zhanqi.png
+1ce63399 in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.csb
+1cf2b49a 
+1cf2bb44 
+1cfbe9a3 images\dts_item\package\icn_dts_fdy_02.png
+1d29873c in_game\guide\guide.alpha.dds
+1d4930a4 
+1d49e69b 
+1d646557 images\dts_item\tips\img_beixin_vivo.png
+1d72751c 
+1d8dfa98 images\dts_item\pick\icn_dts_kssq_wp_01_huoji.png
+1decbf05 images\dts_item\icn_dts_gun_05_up.png
+1e0277cf images\dts_item\package\icn_dts_guns_20.png
+1e0d60b5 
+1e0fc289 _international\jp\ui\in_game\ui_settings\ui_settings.csb
+1e13d889 in_game\guide\fx_zuosheji.csb
+1e1d1e20 in_game\ui_chat\ui_chat_infight.dds
+1e3e487f _international\en\ui\out_game\ui_user_agreement\ui_user_agreement_en.dds
+1e668977 
+1e8c1dd3 images\dts_item\useimg\icn_useimg_22.png
+1e8c7843 in_game\ui_team_info\ui_team_chat.csb
+1ea656c2 in_game\ui_gamerule_guide\ui_gamerule_guide.plist
+1eccc7db images\dts_item\gun_name\img_name_20.png
+1f072f79 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide.alpha.dds
+1f4db6bb out_game\ui_main_v2\mainscene.dds
+1f69a98e out_game\ui_main_v2\csd\titlebarlayer.csb
+1f9e4361 
+1ff9417a in_game\ui_scene_root\ui_scene_root0.plist
+202c2428 images\dts_item\package\icn_dts_jing_04.png
+20d2f6e1 
+20e80d07 images\dts_item\package\icn_dts_cfq_bcq.png
+20eb466f images\dts_item\icn_dts_gun_real_22_02.png
+20eb91fd images\dts_item\package\icn_dts_guns_06.png
+20f63ed8 images\dts_item\main\5_huoji.png
+20f7634f 
+216b3cd4 in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher.dds
+21923b24 images\widgets\img_nvida_physx_logo.dds
+21bc8802 in_game\ui_widget_lib\ui_widget_lib.alpha.dds
+2209a39c images\dts_item\useimg\icn_useimg_07.png
+222b2e4a _international\jp\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher_jp.dds
+2236d7cb images\dts_item\tips\img_piku.png
+2270c079 
+22a304b6 
+22bfbd7e images\dts_item\pick\icn_dts_kssq_gun_10.png
+22cc662b images\dts_item\package\icn_dts_head_03.png
+231cd8f7 out_game\ui_gift\gift.dds
+23268ffc images\loading\bg_loading_01.dds
+2386e045 in_game\default\button_press.dds
+23dfc913 images\dts_item\gun_name\img_name_10.png
+2432eb8b _international\en\ui\in_game\ui_dts_map\bluecircle.csb
+245b5279 
+249c02aa in_game\ui_friendship\friendship.plist
+24c81bb0 
+250661ad images\dts_item\pick\img_misebeixin.png
+251b1064 out_game\ui_beginner_guide\ui_beginner_guide0.plist
+25263502 
+254df5de _international\en\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel_en.plist
+25840f03 images\dts_item\tips\img_beixin_tap2.png
+258d97cd in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.plist
+25c6fdce 
+26150d80 debug_ui\debug.plist
+261d7bbd 
+26426cf1 _international\en\ui\out_game\ui_login\loginpanel\cinematic.csb
+2673109b 
+26a752a2 _international\jp\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.csb
+26b035eb images\dts_item\pick\icn_dts_kssq_wp_01.png
+26b608f3 
+26c3b66c 
+26c45d90 images\dts_item\pick\icn_dts_kssq_wp_12.png
+26d48b2b _international\jp\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result_jp.plist
+26d54fd4 
+2704364d in_game\ui_dts_pickup\pickup.plist
+27431a63 
+275919c4 images\dts_item\gun_info\icn_gun16.png
+2760c7b1 in_game\item_pick\item_pick.dds
+276242d0 
+276eef83 
+277f8190 images\dts_item\pick\img_qianhuangbeixin.png
+27824350 out_game\ui_main_v2\mainscene2.alpha.dds
+278969c9 images\dts_item\package\icn_dts_real_03.png
+279f7713 
+27b0c5ae images\dts_item\gun_name\img_name_15.png
+28146ab2 images\dts_item\share\img_shirt.png
+281becd6 images\dts_item\package\icn_dts_bq_qt.png
+283b43af 
+283fe6c8 images\dts_item\tips\img_beixin_oppo.png
+28456f2a 
+28595459 in_game\in_game_effect\jiemainzhijia\panel_new.dds
+2885c0d8 images\dts_item\package\icn_dts_knife_06.png
+289a7690 images\dts_item\gun_info\icn_gun11.png
+28a121e4 
+28c5081f in_game\ui_target_hint\ui_target_hint.csb
+28d0aceb images\dts_item\icn_dts_gun_real_24_02.png
+28f00bf4 in_game\ui_battlegrounds_in_game\effectfight\effectlivetop.csb
+2910616d out_game\ui_swallow\ui_swallow.exportjson
+291d05c7 in_game\in_game_effect\serverlist_circle\serverlist_circle.alpha.dds
+29b1ce70 images\dts_item\gun_info\icn_gun03.png
+29d780c6 images\dts_item\tips\img_beixin_3dm.png
+29fce67a images\dts_item\useimg\icn_useimg_15.png
+2a7dfd31 images\dts_item\package\icn_dts_knife_02.png
+2a7fedf9 _international\jp\ui\in_game\ui_money_exchange\ui_money.plist
+2aad9d1c images\dts_item\pick\img_chongfengku.png
+2ab8c016 _international\en\ui\in_game\ui_friendship\friend_panel.csb
+2b1a2039 
+2b37dc18 out_game\ui_cclive\cclive.alpha.dds
+2b675dd2 in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage.dds
+2b69dbaf 
+2ba70eb5 out_game\ui_offline_screen_controller\offline.dds
+2bd05ade images\dts_item\pick\img_beixin_quanmin.png
+2be4ff6e in_game\damage_text\damage_text0.alpha.dds
+2c131bf8 images\dts_item\share\img_girl.png
+2c5df514 images\dts_item\gun_name\img_name_21.png
+2c651da6 _international\jp\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher_jp.plist
+2c71a738 _international\jp\ui\in_game\ui_settings\ui_settings_jp.alpha.dds
+2c7e1fac images\dts_item\package\icn_dts_fdy_01.png
+2cc5d36e _international\jp\ui\in_game\ui_dts_map\ui_dts_map_jp.dds
+2cd3c59b images\equip_area\icn_dts_gun_real_12.png
+2cd80e76 images\dts_item\pick\img_beixin_tap2.png
+2cede920 
+2d282618 in_game\ui_scene_root\ui_scene_root.exportjson
+2d2b17cc out_game\ui_main_v2\mainscene3.plist
+2d36f583 out_game\ui_patch\ui_patch.alpha.dds
+2d3726c0 in_game\ui_complaint\ui_complaint.plist
+2d42fa6a 
+2d5169dd in_game\tx_change_tip\plist1.dds
+2d786d92 
+2d97cb0c _international\jp\ui\out_game\ui_main_v2\csd\battlegroundmatchtimer.csb
+2db7ed0e in_game\text_tips\text_tips.csb
+2dd40881 _international\en\ui\in_game\ui_dts_package2\ui_dts_package2_en.plist
+2de5bef1 in_game\general_progress_bar\bar.csb
+2e2615a0 in_game\ui_player_info\ui_player_info.alpha.dds
+2e4ae459 images\dts_item\package\icn_dts_guns_22.png
+2e790f4e 
+2e93be80 images\dts_item\package\icn_dts_sl_03.png
+2eaf1155 in_game\ui_jump_tip\bg_jump_tip.dds
+2ee947de 
+2f155f8c _international\jp\ui\in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.csb
+2f364293 _international\en\ui\in_game\ui_team_info\ui_team_info.csb
+2f540afd 
+2f7e284c images\dts_item\pick\icn_dts_kssq_pj_24.png
+2fb08937 _international\jp\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher_jp.alpha.dds
+2fbccab5 in_game\in_game_effect\jiemainzhijia\zhankai_2.csb
+2fc5975c in_game\ui_tips\ui_tips.dds
+2fed18f9 
+3008dd0e 
+30121fab in_game\ui_battlegrounds_fall\txt_dts_ts_01.dds
+306edee4 
+306f3f86 images\dts_item\pick\icn_dts_kssq_pj_12.png
+30bf8e16 images\dts_item\tips\img_beixin_douyu1.png
+30c26128 images\dts_item\tips\img_beixin_xiongmao1.png
+3122c795 
+3137e52f 
+313cce5e _international\jp\ui\out_game\ui_login\loginpanel\cinematic.csb
+314dc9aa images\dts_item\package\icn_dts_real_10.png
+31a7bc19 in_game\ui_real_name_authen\ui_real_name_authen.csb
+31ad4804 in_game\ui_dts_dialogue\ui_dts_dialogue.dds
+31d57892 out_game\ui_beginner_guide\ui_beginner_guide0.alpha.dds
+326c5fc5 
+329d5328 
+32fcf26b images\dts_item\icn_dts_weapon_m249.png
+3324a662 out_game\ui_patch\ui_patch.dds
+3339440f in_game\damage_text\damage_text0.dds
+3389230f 
+339aac3e 
+33d73357 _international\en\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall_en.plist
+33ea80e4 in_game\damage_text\txt_headshot.dds
+341595a1 in_game\ui_dts_appearance_costume\ui_dts_appearance_control.csb
+34297317 in_game\ui_settings\ui_settings.alpha.dds
+342edcb0 
+34568a86 _international\en\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game_en.dds
+347e1cbf in_game\mini_map\dtsmap.plist
+34d605dd _international\jp\ui\in_game\ui_dts_package2\ui_dts_package.csb
+34d7532f 
+34e983ec images\dts_item\tips\icn_dts_fdy3_tips.png
+35277ccc 
+3585f47e images\dts_item\package\icn_dts_micaiku.png
+35beb83d images\dts_item\gun_name\img_name_12.png
+35dca99d images\dts_item\pick\icn_dts_kssq_gun_13.png
+35e02c8e images\dts_item\icn_dts_weapon_m14ebr.png
+36019da5 
+3615cbb8 images\share_resource\6.jpg
+36282bd0 
+3657d404 images\dts_item\pick\img_beixin_jingdong.png
+366b4ecc in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.alpha.dds
+368c2a9d images\dts_item\tips\img_zhuiliezheku.png
+3699394e in_game\ui_supply_package\ui_supply_package.alpha.dds
+369d08b6 images\dts_item\tips\img_yurongbeixin.png
+36aa6b1a _international\jp\ui\out_game\ui_user_agreement\ui_user_agreement_jp.plist
+36ad3b0a images\dts_item\useimg\icn_useimg_23.png
+36ad9f84 images\dts_item\gun_name\img_name_08.png
+36b89fb6 _international\jp\ui\out_game\ui_user_agreement\ui_user_agreement_jp.dds
+36c65fa0 in_game\in_game_effect\jiemainzhijia\jiemianzhijia.alpha.dds
+36de221e 
+36e02cea images\equip_area\icn_dts_bq_bcq_02.png
+36e8e1ff images\dts_item\gun_name\img_name_24.png
+3705536e images\dts_item\pick\icn_dts_kssq_wp_13.png
+3746bad2 images\dts_item\pick\img_beixin_jiuyou.png
+37472484 _international\en\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game_en.alpha.dds
+37677b10 
+376c4dcd images\share_resource\4.jpg
+37877846 
+37c8c5e2 in_game\default\button_disable.alpha.dds
+37d0a73d images\dts_item\package\icn_dts_guns_07.png
+37e07999 
+3860aa32 _international\jp\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel_jp.dds
+386bd7a5 images\dts_item\pick\icn_dts_kssq_pj_06.png
+387827f3 images\loading\bg_loading_test.alpha.dds
+38876be9 images\loading\loading_12.dds
+389447b6 in_game\ui_dialog\generaldialog.plist
+3894b9d9 
+389b5f9c in_game\guide\fx_yaogan.csb
+38f0e8ca images\loading\bg_loading_06.alpha.dds
+39006afa 
+39085f42 
+39230a5f in_game\in_game_effect\prepare\prepare.alpha.dds
+395a871d _international\en\ui\in_game\ui_money_exchange\ui_money.plist
+3979c516 in_game\ui_chat\ui_fight_chat.plist
+398473a1 out_game\ui_main_v2\csd\battlegrounddanreward.csb
+398ea585 
+39bfa767 images\dts_item\package\icn_dts_bq_czwb.png
+39cdc2cd 
+39fbdd37 
+3a0384c6 
+3a1e0923 out_game\ui_login\loginpanel\select_character.csb
+3a269690 
+3a2e205a 
+3a3f377b 
+3a5711ac _international\jp\ui\in_game\general_progress_bar\bar.csb
+3a5e1877 
+3a8a0bd1 
+3a957363 images\dts_item\pick\icn_dts_kssq_zb_01.png
+3a9fbec7 
+3aaa1a37 
+3ac25f97 _international\en\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume_en.alpha.dds
+3b093fad 
+3b818bcb in_game\damage_text\damage_text.exportjson
+3baa57b2 _international\en\ui\in_game\ui_player_tip\ui_hall_player_tip.csb
+3beac557 
+3c19a9f5 in_game\ui_tips\ui_tips.csb
+3c26b446 
+3c2df5c2 in_game\ui_player_info\txt_character_level.alpha.dds
+3c3065a8 images\dts_item\pick\img_beixin_xingyou.png
+3c4a9f68 
+3c5902ad 
+3c939f95 images\dts_item\package\icn_dts_guns_12.png
+3ce4d859 
+3d07fd9d images\dts_item\gun_name\img_name_25.png
+3db3c208 
+3db58e49 
+3db7136c out_game\ui_system_guide\ui_system_guide.alpha.dds
+3dd1e2dd images\dts_item\pick\icn_dts_kssq_pj_21.png
+3dd4f62e images\dts_item\gun_name\img_name_01.png
+3df5c4a1 images\dts_item\pick\icn_dts_kssq_zb_08.png
+3dff56ec images\dts_item\package\icn_dts_jing_01.png
+3e0e1681 
+3e1913d9 images\dts_item\tips\img_beixin_quanmin1.png
+3e24938d _international\jp\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result.csb
+3e38b6ea images\dts_item\main\5.png
+3e407c19 _international\en\ui\in_game\ui_supply_package\ui_supply_package_en.dds
+3e5541f8 images\dts_item\package\icn_dts_guns_10.png
+3e7d4e30 in_game\ui_target_hint\ui_target_hint.plist
+3e8b91e9 out_game\ui_main_v2\csd\battlegroundteamlayer.csb
+3eb6e97b images\loading\bg_vehicle.dds
+3eb96d13 
+3ed01cb7 images\equip_area\icn_dts_bq_ks_02.png
+3ef81ce0 _international\jp\ui\in_game\ui_dts_dialogue\ui_dts_dialogue_jp.alpha.dds
+3f38a9c3 
+3f669774 _international\jp\ui\out_game\ui_login\ui_login_jp.alpha.dds
+3fa49046 images\dts_item\tips\img_beixin_kaola.png
+3fad0a6e out_game\ui_login\loginpanel\login.csb
+3fb0b197 images\dts_item\useimg\icn_useimg_18.png
+3fbe674b images\dts_item\gun_name\img_name_31.png
+3fca6b3a images\equip_area\icn_dts_bq_sjwb_02.png
+3fddbb2f images\dts_item\icn_dts_gun_18_up.png
+400d0cd4 
+402e77fb in_game\ui_settings\ui_settings.plist
+40425aa7 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide.plist
+4061f19d 
+409786a2 in_game\guide\fx_dituguanbi.csb
+40ac5b53 in_game\ui_battlegrounds_god_observer\ui_battleground_god_observer.dds
+40c95481 out_game\ui_cclive\ui_ccrank.csb
+41023354 in_game\ui_load_bullet\ui_load_bullet.dds
+4116827b 
+41314ed3 images\hall_prop\icn_golden_coin_01.png
+4174dbaf _international\en\ui\in_game\ui_social_share\ui_social_share.plist
+4174fe19 
+4195f8d3 
+41a01e44 
+42296e93 _international\en\ui\in_game\ui_dts_map\ui_dts_map_en.dds
+423366ec _international\en\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.csb
+423eb51c images\dts_item\icn_dts_gun_real_14_02.png
+42572b1e images\dts_item\gun_info\icn_gun14.png
+42626d70 images\dts_item\pick\img_yurongyi.png
+4286e6ee 
+42d42667 
+430715d3 images\dts_item\tips\img_beixin_quanmin.png
+43099a09 images\dts_item\package\icn_dts_touzhi_02.png
+431f6fc7 out_game\ui_main_v2\mainscene2.plist
+4399b690 _international\jp\ui\in_game\ui_battlegrounds_result\tx_share.csb
+43e09e1b images\dts_item\useimg\icn_useimg_19.png
+43e20ba3 
+43eb00d7 images\dts_item\pick\img_piyi.png
+43eca1c7 
+43f19b54 in_game\ui_battlegrounds_in_game\open_door\opendoor.csb
+440ed2e3 out_game\ui_main_share_temp\share1.plist
+4436f2fd images\share_resource\pure_share_0.jpg
+444cc1f4 in_game\debug\debug.csb
+445cec13 images\avatar\portrait\avatar.csb
+4501b1d0 _international\jp\ui\in_game\ui_dts_dialogue\ui_dts_dialogue.csb
+4508d082 images\dts_item\pick\img_niuzaiku.png
+4516b186 in_game\ui_chat\ui_announce.csb
+4517e269 images\dts_item\tips\img_beixin_xingyou.png
+452cf9b8 in_game\ui_dts_appearance_costume\ui_dts_appearance_costume.csb
+45a0bf2f in_game\command\command.dds
+45c8424e in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.dds
+45dd014b g89na\ui_pc_prelogin\prelogin.plist
+46126441 
+462f9479 
+4637bebb 
+4640cc5a images\dts_item\icn_dts_gun_real_01_02.png
+46540820 
+46676c56 images\loading\loading_6.alpha.dds
+4674a6f9 images\dts_item\icn_dts_weapon_mp7.png
+46a16127 
+46f3ea8a images\equip_area\icn_dts_gun_real_15.png
+4718cae6 
+4739bc38 in_game\ui_supply_package\ui_share_reward.csb
+4743442c in_game\ui_share\csd\share.csb
+474f0dad 
+475dcfbe 
+4767d272 
+47a2a969 in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher.plist
+47f16603 in_game\ui_player_info\ui_player_info.csb
+48285d60 images\dts_item\gun_name\img_name_03.png
+4830fe9d 
+48440c4e 
+486d19b0 
+48906c86 images\dts_item\pick\icn_dts_kssq_gun_18.png
+48aa9d38 _international\en\ui\in_game\ui_dts_dialogue\ui_dts_dialogue.plist
+48d437b5 in_game\ui_player_tip\ui_player_tip.alpha.dds
+49cca050 
+49d77cda images\dts_item\tips\icn_dts_head_04_tips.png
+4a1eb7f9 _international\en\ui\out_game\ui_user_agreement\ui_user_agreement_en.alpha.dds
+4a3946fe images\dts_item\package\icn_dts_guns_02.png
+4a51b832 images\dts_item\tips\img_micaibeixin.png
+4a534cb0 images\dts_item\pick\img_wuxiuweiyi4.png
+4a709186 _international\en\ui\g89na\ui_language\ui_language_en.alpha.dds
+4a8aaa81 images\equip_area\icn_dts_bq_kr_02.png
+4abdb1f3 
+4b018d22 in_game\mini_map\dts_mark.alpha.dds
+4b3d365d 
+4b71cb11 
+4b79be40 images\dts_item\gun_info\icn_gun02.png
+4bc34533 images\dts_item\pick\img_beixin_pipa.png
+4bf1bd79 images\dts_item\pick\img_beixin_18183.png
+4bf4b1a0 in_game\ui_social_share\ui_social_share.plist
+4c148b2f images\dts_item\main\8.png
+4c3ab00d _international\jp\ui\out_game\ui_user_agreement\user_agreement.plist
+4c761085 out_game\ui_offline_screen_controller\ui_offline_screen_controller.csb
+4cb60178 images\dts_item\main\6.png
+4cd32bde 
+4cff1070 images\dts_item\icn_dts_gun_20_up.png
+4d6ff45b out_game\ui_login\loginpanel\login.alpha.dds
+4d7528fb _international\jp\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game_jp.dds
+4dace1f5 images\dts_item\share\img_man_hair.png
+4daeca9a _international\jp\ui\in_game\ui_dts_pickup2\ui_dts_pickup2_jp.dds
+4e3a8aac images\dts_item\icn_dts_newgun_60.png
+4e435142 g89na\ui_language\language_choose.dds
+4e621831 
+4e762df8 images\dts_item\pick\img_beixin_tap.png
+4e8ac77c images\loading\bg_loading_slums.dds
+4e9427b7 
+4ea70b3d in_game\ui_dts_map\ui_dts_map.plist
+4eabad51 images\dts_item\icn_dts_gun_real_15_02.png
+4ec8110f _international\jp\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel_jp.plist
+4edee9fe images\dts_item\tips\img_beixin_youjiu.png
+4ee0fb6a _international\jp\ui\out_game\ui_login\loginpanel\select_character.csb
+4f07c823 images\dts_item\tips\img_beixin_sina.png
+4f3faebe images\dts_item\package\icn_dts_cfq_xyq.png
+4ff683b1 _international\en\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.plist
+500af967 out_game\ui_main_v2\ui\images\common_tex_plist\common_tex.plist
+50182b45 images\dts_item\pick\icn_dts_kssq_gun_07.png
+507db194 _international\jp\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.plist
+5096640c images\dts_item\pick\img_beixin_meizu.png
+50a7c27f _international\en\ui\out_game\ui_main_v2\csd\mainscene.csb
+50c29e47 
+50c826f9 in_game\ui_dts_map\current_vx.alpha.dds
+50e28d10 
+510c3304 
+510edf01 images\dts_item\pick\icn_dts_kssq_pj_23.png
+516c4e60 images\dts_item\pick\img_beixin_4399.png
+517cbe43 images\dts_item\tips\img_beixin_cc1.png
+518e7b03 in_game\tx_change_tip\plist1.alpha.dds
+51b5c682 in_game\pingmutexiao_xue\pingmutexiao_xue0.plist
+51c722a1 images\dts_item\icn_dts_gun_real_17_02.png
+51d4121b in_game\ui_load_bullet\ui_load_bullet.csb
+51df4aff images\common_tex_plist\dan_icon.plist
+51e7cdbd 
+51ff4ec6 
+521a63eb _international\jp\ui\in_game\ui_dts_package2\ui_dts_package2_jp.dds
+524c9fe9 images\minimap\blank.png
+527a018a 
+5292aa96 in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage.csb
+530ae209 
+532c742a _international\en\ui\in_game\ui_settings\ui_settings_en.alpha.dds
+53a192f7 
+53aa086d _international\en\ui\in_game\ui_bug_report\ui_bug_report.plist
+53e98115 images\loading\bg_loading_03.dds
+53f7db70 in_game\ui_supply_package\ui_supply_package.plist
+53fece34 images\dts_item\icn_dts_gun_28_up.png
+5407ee3c _international\jp\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.csb
+54137e9e in_game\guide\skip_tutorial.csb
+541d3045 in_game\ui_battlegrounds_in_game\effectfight\effectdanger_b.csb
+544323bb in_game\ui_battlegrounds_god_observer\ui_battleground_god_observer.plist
+5461b9bb 
+54edd3c3 _international\jp\ui\in_game\ui_player_tip\ui_hall_player_tip.csb
+5540c54d images\dts_item\pick\icn_dts_kssq_pj_08.png
+55568cb6 _international\en\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume_en.plist
+558931e3 images\dts_item\pick\img_beixin_quanmin1.png
+55c3e485 
+563245fa out_game\ui_main_v2\mainscene3.alpha.dds
+567584f3 images\dts_item\main\9.png
+569c918e 
+56adde9e in_game\guide\guide.plist
+56af8879 images\dts_item\pick\img_beixin_oppo.png
+56d2f36c 
+57106c27 
+577a60ea _international\en\ui\in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.plist
+57a18fd2 in_game\ui_player_info\ui_player_info.dds
+57eada0d in_game\in_game_effect\jiemainzhijia\jiemianzhijia.plist
+57eb9acd out_game\ui_system_guide\gui\1_2.alpha.dds
+5804559e images\dts_item\tips\img_yurongku.png
+581f77ec 
+5861037b out_game\ui_login\loginpanel\layer.csb
+5864cf13 images\dts_item\gun_name\img_name_32.png
+58939edd _international\jp\ui\in_game\ui_rank_list\ranklist.csb
+58b8e5b2 
+58ba729b 
+58dbb46f 
+58f40f9b 
+591dcf5a scenario\scenario0.plist
+592ea60e 
+59356d0f out_game\ui_custom_room_entrance\ui_custom_room_entrance.csb
+59e8ad96 in_game\guide_tips\guide_tips.csb
+5a11f25d images\dts_item\icn_dts_gun_14_up.png
+5a15b438 images\dts_item\gun_name\img_name_05.png
+5a65b0d6 
+5a714e89 images\loading\loading_4.dds
+5a7abb19 
+5ab72e78 images\dts_item\icn_dts_gun_real_04_02.png
+5ac630ba images\loading\loading_3.dds
+5af37c63 images\dts_item\pick\icn_dts_kssq_pj_17.png
+5af7c9f8 images\dts_item\package\icn_dts_jing_05.png
+5b4ba85d out_game\ui_gift\gift.csb
+5b6367f4 images\dts_item\pick\img_beixin_chushou1.png
+5b73a77d in_game\ui_player_info\ui_share_to_sns.csb
+5b97bf43 in_game\in_game_effect\fx_loading\animation_loading.plist
+5baa107a in_game\ui_blood_screen\ui_blood_screen.plist
+5badd5a2 images\common_tex_plist\common_tex.plist
+5bc39dbc images\equip_area\icn_dts_jing_05_02.png
+5bcbc50e _international\en\ui\out_game\ui_user_agreement\user_agreement.csb
+5c0a68ab images\loading\loading_11.alpha.dds
+5c25e37d in_game\ui_battlegrounds_in_game\tx_ui_tishi\tx_ui_tishi.csb
+5c58b328 images\dts_item\pick\icn_dts_kssq_pj_15.png
+5c76de4a _international\jp\ui\in_game\ui_friendship\friend_panel.csb
+5cc65296 in_game\ui_money_exchange\ui_money.alpha.dds
+5ce070a5 
+5cf70e1d 
+5cf8353c in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher.csb
+5d0f785c in_game\ui_load_bullet\ui_load_bullet.plist
+5d2918b9 images\loading\loading_14.dds
+5d8486a1 
+5db67abf images\dts_item\icn_dts_gun_29_up.png
+5df24d0c 
+5e32e5a1 _international\en\ui\out_game\ui_login\loginpanel\select_character.csb
+5e517466 
+5e6cb49b welcomel.gif
+5e848f6b 
+5eab7e5e images\loading\loading_2.alpha.dds
+5ebecb53 images\dts_item\gun_name\img_name_07.png
+5f19d9bf 
+5f4afaee images\dts_item\share\img_purple_box.png
+5f4cf785 out_game\ui_main_share_temp\mainscene.csb
+5f84ec6e 
+5f8f10dd in_game\ui_consume_dialog\ui_consume_dialog.csb
+5fb055cf 
+5fb3c84d 
+5fbe01c8 
+5fde8f76 in_game\ui_dts_package2\ui_dts_package2.dds
+5ffefe38 debug_ui\debug.dds
+60097c9e in_game\ui_dts_map\current_vx.plist
+6020a096 _international\jp\ui\in_game\ui_dts_map\ui_dts_map_jp.plist
+603d984b 
+605430c1 images\dts_item\pick\icn_dts_kssq_pj_09.png
+6073997c _international\en\ui\in_game\ui_dts_map\ui_dts_map.csb
+6088b0d5 images\dts_item\pick\img_beixin_gaoqu.png
+60cae82a in_game\ui_dialog\generaldialog.dds
+60d59de3 images\dts_item\tips\img_beixin_bilibili.png
+60f353be 
+6101d070 
+612153de 
+613c6bbd out_game\ui_login\loginpanel\login.plist
+61479f11 in_game\command\command.alpha.dds
+615371b1 images\dts_item\pick\img_beixin_youjiu.png
+6169d9f9 images\dts_item\package\icn_dts_bq_kr.png
+617d5370 images\dts_item\icn_dts_weapon_barrett.png
+617d551d images\dts_item\tips\icn_dts_fdy_tips.png
+61e5ac5b images\dts_item\pick\img_beixin_baidu.png
+620c7ac4 images\dts_item\icn_dts_gun_11_up.png
+62169de0 images\dts_item\icn_dts_gun_27_up.png
+621b9814 in_game\ui_advertisement\ui_advertisement.csb
+622a6dee images\dts_item\tips\img_beixin_jiuyou.png
+622e662d in_game\ui_battlegrounds_result\txt_point_01.alpha.dds
+6257a5a4 in_game\ui_battlegrounds_result\tx_share.csb
+6267d54d out_game\ui_patch\ui_patch.plist
+626a721a in_game\guide\fx_miaozhun.csb
+6294f89e images\dts_item\useimg\icn_useimg_16.png
+62bfa1a2 images\dts_item\tips\img_beixin_meizu.png
+62c1e846 images\dts_item\icn_dts_gun_23_up.png
+62cc3ace images\dts_item\pick\icn_dts_kssq_wp_11.png
+631609ca images\dts_item\package\icn_dts_head_04.png
+633490d6 _international\jp\ui\g89na\ui_language\ui_language_jp.plist
+634bb926 in_game\ui_rank_list\ranklist.csb
+635f6ce6 
+639c98c7 _international\jp\ui\in_game\ui_team_info\ui_battleground_invite.csb
+63e8a391 images\dts_item\tips\img_beixin_tap1.png
+63f0fbc4 in_game\ui_scene_root\ui_scene_root0.dds
+63fc5d20 out_game\ui_main_v2\csd\battlegroundmatchlayer.csb
+640b11ce 
+64139df0 _international\en\ui\in_game\ui_friendship\mail_panel.csb
+642217ef _international\jp\ui\in_game\ui_team_info\ui_friend_panel.csb
+6431415a images\dts_item\useimg\icn_useimg_01.png
+643e2da3 _international\jp\ui\in_game\ui_supply_package\ui_supply_package_jp.alpha.dds
+645e8486 _international\en\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage_en.plist
+6473b671 images\equip_area\icn_dts_jing_02_02.png
+647b3700 
+649bef67 images\dts_item\gun_info\icn_gun06.png
+64caccb6 _international\jp\ui\in_game\ui_dts_map\ui_dts_map.csb
+64e6f584 images\dts_item\pick\icn_dts_kssq_pj_11.png
+651fb247 
+6530bc32 images\dts_item\package\icn_dts_guns_01.png
+654d9801 images\dts_item\tips\icn_dts_pack_tips_02.png
+658a91f3 images\dts_item\pick\icn_dts_kssq_pj_19.png
+658b1786 
+65aca0f6 images\dts_item\icn_dts_weapon_ar15.png
+65afafaa 
+65d46086 
+65dadc2d 
+65e72a63 images\equip_area\icn_dts_jjq_xyq_02.png
+6642473c images\dts_item\icn_dts_gun_real_16_02.png
+66508e37 
+665ebba7 in_game\ui_team_info\ui_friend_panel.csb
+6663e9ca _international\en\ui\in_game\ui_social_share\ui_social_share.csb
+66836097 out_game\ui_patch\ui_patch.csb
+66a60373 out_game\ui_debug_entrance\ui_debug_entrance.csb
+66ae8fd9 
+66bd81aa in_game\ui_friendship\friendship.dds
+678f765e in_game\guide_tips\guide_tips.plist
+67dafd3f images\progressbar\progress_circle.png
+680d00ec 
+680e6eb3 _international\jp\ui\out_game\ui_login\loginpanel\login.csb
+68419053 images\widgets\cursor.dds
+6870f344 _international\jp\ui\out_game\ui_login\ui_login_jp.dds
+68bc53be in_game\ui_supply_package\ui_supply_package.csb
+68d92fb9 images\dts_item\pick\icn_dts_kssq_knife_02.png
+68f29fd4 out_game\ui_main_v2\csd\battlegroundfriendlayer.csb
+693097ad in_game\ui_dts_package\ui_dts_package.plist
+69448a06 
+694be336 in_game\ui_dts_pickup\pickup.dds
+695c9bdf g89na\ui_pc_prelogin\prelogin.dds
+698b992a in_game\ui_dtstutorial_tips\ui_dtstutorial_tips.dds
+69ad945d images\dts_item\pick\icn_dts_kssq_pj_16.png
+69d379c4 _international\en\ui\in_game\ui_dts_package2\ui_dts_package2_en.dds
+6a14aa68 images\dts_item\tips\img_zhanlang_body_male.png
+6a14fd89 images\dts_item\pick\icn_dts_kssq_wp_05.png
+6a79fae7 images\share_resource\2.jpg
+6a9f1cd0 in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.alpha.dds
+6aa8d88c out_game\ui_system_guide\ui_system_guide.dds
+6b0a573e images\dts_item\icn_dts_newgun_61.png
+6b1a7f18 
+6b42412d images\dts_item\package\icn_dts_head_02.png
+6b456c4b in_game\in_game_effect\serverlist_txt\serverlist_txt.plist
+6b6b55fb images\dts_item\icn_dts_gun_real_23_02.png
+6bc4bf82 
+6bd2f85a in_game\ui_chat\ui_fight_chat.alpha.dds
+6bdeb786 in_game\ui_share\reward1.dds
+6be7e515 images\equip_area\icn_dts_gun_real_16.png
+6c2abc7b images\dts_item\useimg\icn_useimg_10.png
+6c401b63 _international\en\ui\out_game\ui_login\loginpanel\login.csb
+6c5212e3 in_game\default\button_normal.dds
+6c6fe104 
+6c76ac50 images\dts_item\pick\img_zhanlang_body_male.png
+6c976e49 
+6ca65f1b out_game\ui_main_share_temp\share1.alpha.dds
+6cf1010f in_game\ui_battlegrounds_result\ui_battlegrounds_result.dds
+6cfde9c5 images\dts_item\pick\icn_dts_kssq_zb_09.png
+6d21978b 
+6d280dde in_game\ui_dts_appearance_costume\ui_dts_appearance_costume.alpha.dds
+6d2ff8e8 images\dts_item\pick\icn_dts_kssq_gun_03.png
+6d38dc41 
+6d3a2143 out_game\ui_login\loginpanel\server_info.csb
+6d7bcee6 
+6d99b965 in_game\ui_chat\ui_chat_infight.plist
+6dc18c5e images\dts_item\tips\img_beixin_pipa.png
+6ddd5c08 g89na\ui_pc_prelogin\ui_pc_prelogin.csb
+6dfd6e2f out_game\ui_beginner_guide\ui_beginner_guide.exportjson
+6e0178f4 
+6e135f50 in_game\pingmutexiao_xue\pingmutexiao_xue0.alpha.dds
+6e439628 
+6e712974 in_game\ui_bug_report\ui_bug_report.dds
+6e7daa8b images\loading\bg_loading_01.alpha.dds
+6ea46398 in_game\ui_invite_to_team\ui_invite_to_team.exportjson
+6eb33e10 images\dts_item\package\icn_dts_knife_04.png
+6eb94aca images\dts_item\pick\icn_dts_kssq_pj_26.png
+6ec4484a 
+6ed759e7 images\dts_item\package\icn_dts_guns_11.png
+6f07b44d 
+6f0c4efe 
+6f187e9d out_game\ui_gift\gift.plist
+6f689e3f images\dts_item\pick\img_beixin_huya.png
+6f8febfb images\dts_item\gun_name\img_name_28.png
+6fb202d5 images\dts_item\tips\img_xiaofang_body_male.png
+6fc33bfe images\dts_item\tips\icn_dts_shoes_tips.png
+6fc6cb46 
+6fd7e8e8 in_game\ui_battlegrounds_in_game\effectfight\effect_help.csb
+701f5832 _international\en\ui\in_game\ui_dts_dialogue\ui_dts_dialogue_en.alpha.dds
+702e60d5 in_game\item_pick\item_pick.alpha.dds
+705a761f in_game\ui_dts_map\current_vx.dds
+705f9cfa images\loading\loading_10.alpha.dds
+7067830d 
+708ae77d in_game\ui_dts_appearance_costume\ui_dts_appearance_costume.plist
+70ae685a _international\en\ui\out_game\ui_user_agreement\user_agreement.plist
+714570d0 
+71a5d107 images\minimap\bg_fight_map_01.png
+720869f9 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide02.plist
+722cd76f images\dts_item\package\icn_dts_jjq_bcq.png
+722f9110 images\dts_item\gun_info\icn_gun01.png
+7233109d images\dts_item\icn_dts_gun_04_up.png
+725cb262 in_game\general_progress_bar\bar.plist
+72866298 
+728bfea5 
+728e10eb images\dts_item\icn_dts_weapon_m1887.png
+72a5fdff images\dts_item\pick\icn_dts_kssq_knife_06.png
+72c5efad 
+72cdb84b 
+72db7ed4 in_game\ui_battlegrounds_in_game\effectfight\effectgunbgvx.csb
+72fdfea5 
+7329420b images\dts_item\icn_dts_weapon_ak.png
+733c8ddf images\progressbar\circle.png
+734766c4 images\dts_item\package\icn_dts_sdq_zzd.png
+7353cae5 debug_ui\treeview.csb
+7372540c images\dts_item\pick\icn_dts_kssq_pj_01.png
+738f6130 images\dts_item\share\img_white_box.png
+740c2e12 out_game\ui_main_v2\mainscene2.dds
+7431665e images\dts_item\package\icn_dts_real_08.png
+744203ea 
+74558dbf _international\jp\ui\out_game\ui_login\ui_login_jp.plist
+7460407a images\dts_item\package\icn_dts_bq_xsq.png
+7482a1c5 _international\jp\ui\in_game\ui_dts_dialogue\ui_dts_dialogue_jp.plist
+74a9eafe in_game\ui_dts_pickup2\ui_dts_pickup2.csb
+74c3ec13 in_game\text_tips\text_tips_0.dds
+74fe5440 
+757030ca images\dts_item\icn_dts_gun_real_10_02.png
+757224e2 images\dts_item\package\icn_dts_guns_17.png
+7576fb4b 
+75ad448c 
+75af23cb in_game\ui_blood_screen\ui_blood_screen.dds
+761b6e67 images\loading\loading_3.alpha.dds
+761f7c68 images\dts_item\pick\icn_dts_kssq_wp_07.png
+763207c0 _international\en\ui\in_game\ui_supply_package\ui_supply_package_en.plist
+763c935d 
+7672708c images\equip_area\icn_dts_bq_czwb_02.png
+768e365b 
+76f04ab2 out_game\ui_custom_room_entrance\ui_custom_room_entrance.alpha.dds
+7733b44d images\dts_item\pick\img_beixin_huya1.png
+7734a976 _international\jp\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.plist
+77864f90 
+7789be19 _international\en\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher_en.plist
+778b553b scenario\scenario0.alpha.dds
+7792e8b3 
+77cd4764 
+77d24bb8 images\dts_item\pick\icn_dts_kssq_gun_16.png
+780b163c _international\en\ui\in_game\ui_settings\ui_settings_en.plist
+78155453 in_game\ui_battlegrounds_result\ui_battlegrounds_result.plist
+781e407c 
+7838e617 
+7843f617 
+78533a56 g89na\ui_language\language_choose.csb
+786ea7ae images\dts_item\pick\img_beixin_17173.png
+7898e0ef 
+78a9b9fa images\dts_item\tips\icn_dts_head_01_tips.png
+78f7cd7d 
+79091c0d 
+79279230 images\dts_item\share\img_green_box.png
+7927c1ca 
+795cb773 images\dts_item\package\icn_dts_head_01.png
+79f04bd8 
+79fe66ce in_game\in_game_effect\serverlist_txt\serverlist_txt.csb
+7a05e942 in_game\ui_dts_appearance_costume\ui_dts_appearance_costume.dds
+7a12ec17 in_game\ui_bug_report\ui_bug_report.alpha.dds
+7a635384 images\dts_item\gun_name\img_name_29.png
+7a7aa1c9 images\dts_item\pick\img_beixin_wangyiaiwan.png
+7aa7c612 out_game\ui_cclive\ui_ccinfodetail.csb
+7b33ab00 _international\jp\ui\in_game\ui_bug_report\ui_bug_report.csb
+7b5d6f93 out_game\trace\trace.alpha.dds
+7b6096c3 _international\en\ui\g89na\ui_language\language_choose.csb
+7b6342b0 images\loading\loading_9.dds
+7b82b07e out_game\ui_login\loginpanel\login.dds
+7b9bbc72 images\dts_item\package\icn_dts_real_11.png
+7be23e0d images\loading\loading_7.dds
+7be9982f images\dts_item\pick\icn_dts_kssq_pj_10.png
+7be9fe9f in_game\ui_target_hint\ui_target_hint.dds
+7bfa813a _international\en\ui\in_game\ui_dts_dialogue\ui_dts_dialogue_en.dds
+7c1077ee 
+7c42699f images\dts_item\useimg\icn_useimg_11.png
+7c44fb91 images\dts_item\pick\img_yurongbeixin2.png
+7c5eae70 
+7c667d04 images\dts_item\pick\img_beixin_zhanqi1.png
+7c801c0e images\loading\loading_4.alpha.dds
+7cac04e5 
+7cbdf99c _international\jp\ui\in_game\ui_dts_pickup2\ui_dts_pickup2_jp.alpha.dds
+7cbf3dfb 
+7ccb9d13 
+7ceed4c8 images\dts_item\package\icn_dts_guns_19.png
+7cf75a87 images\dts_item\package\icn_dts_bq_kskr.png
+7d21173f 
+7d3e1c8c _international\en\ui\out_game\ui_user_agreement\ui_user_agreement_en.plist
+7d4cc11d images\equip_area\icn_dts_sdq_elq_02.png
+7d4f1725 in_game\ui_battlegrounds_god_observer\ui_god_avatar_hint.csb
+7d794da6 
+7d7a0fef 
+7dcd0c08 
+7de03c4b images\dts_item\tips\icn_dts_knife_03_tips.png
+7e2a4404 in_game\guide\guide.csb
+7e2e0cea images\dts_item\icn_dts_weapon_awm.png
+7e62dda9 in_game\ui_scene_root\ui_scene_root0.alpha.dds
+7ea36e2e images\equip_area\icn_dts_gun_real_13.png
+7fb0b2cb 
+7fbc04fe _international\en\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel_en.dds
+7fea9ed0 images\dts_item\useimg\icn_useimg_21.png
+7ffe2d69 _international\jp\ui\out_game\ui_main_v2\ui_main_v2_jp.plist
+8019b715 
+802ec7d7 
+80533871 images\dts_item\gun_name\img_name_19.png
+807f9d43 
+8086de33 images\dts_item\gun_info\icn_gun12.png
+80953a46 images\dts_item\pick\img_wuxiuweiyi.png
+80cafb24 
+811a1681 
+812e78eb images\dts_item\main\4.png
+8160e710 in_game\ui_player_info\txt_character_ce_new.dds
+81888d2e _international\en\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher_en.alpha.dds
+81a4d85e 
+8221b5e3 
+8235973f _international\en\ui\in_game\ui_dts_package2\ui_dts_package2.csb
+8253401b images\dts_item\gun_name\img_name_06.png
+82639e09 in_game\in_game_effect\serverlist_txt\serverlist_txt.alpha.dds
+828194a1 debug_ui\debug_ui.exportjson
+82860e08 images\dts_item\tips\img_yurongbeixin4.png
+82b81057 
+82b82346 images\dts_item\pick\icn_dts_kssq_gun_22.png
+82ebc39a _international\jp\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume_jp.dds
+82fd66b1 _international\jp\ui\in_game\ui_money_exchange\ui_money_exchange.csb
+8306e67e out_game\ui_loading\ui_loading.csb
+830e4eef images\dts_item\tips\img_beixin_zhanqi1.png
+832afb8d in_game\ui_debug\ui_debug.alpha.dds
+833ebae4 
+835230cf 
+83737e57 
+839600b1 out_game\ui_main_v2\mainscene.plist
+83ba84a4 out_game\ui_cclive\cclive.plist
+83ed2bea images\loading\bg_vehicle.alpha.dds
+840d2302 
+841a2633 images\dts_item\tips\img_beixin_wangyiaiwan.png
+8493edae 
+84ad8023 images\dts_item\pick\img_yurongbeixin3.png
+8502c57b images\dts_item\package\icn_dts_real_06.png
+85082357 images\dts_item\tips\img_xiaofang_leg_male.png
+851e9100 
+8525716d debug_ui\debug.alpha.dds
+85300c57 in_game\ui_dts_package\ui_dts_package.alpha.dds
+8544517f out_game\trace\trace.csb
+8548c099 images\dts_item\pick\img_beixin_yezizhu.png
+85912379 
+85cf8c6c images\equip_area\icn_dts_gun_real_01.png
+85e2e948 images\loading\bg_loading_03.alpha.dds
+85fae473 
+8648904b 
+866d002f images\dts_item\tips\img_beixin_dcn.png
+867282fe in_game\ui_social_share\ui_social_share.dds
+8683e7cc in_game\ui_dts_map\bluecircle.csb
+86887678 out_game\ui_main_share_temp\share1.dds
+86cadc5d _international\jp\ui\out_game\ui_user_agreement\ui_user_agreement_jp.alpha.dds
+86e5a0ea images\equip_area\icn_dts_cfq_xyq_02.png
+8707e8be images\equip_area\icn_dts_cfq_xsq_02.png
+8730503b in_game\in_game_effect\jiemainzhijia\jiemianzhijia.dds
+875217d2 _international\en\ui\in_game\ui_player_tip\ui_player_tip.plist
+87834b95 images\dts_item\tips\icn_dts_head_02_tips.png
+87911f3f in_game\ui_consume_dialog\ui_consume_dialog.dds
+87a65dee 
+87af7f6b _international\en\ui\in_game\ui_battlegrounds_result\tx_share.csb
+87b05a0e images\dts_item\package\icn_dts_touzhi_03.png
+87ef7700 
+881e24c2 images\battle_info\bar_icn_buff.png
+883bf99e images\dts_item\pick\icn_dts_kssq_pj_04.png
+885800ab in_game\ui_team_info\ui_team_info.csb
+885d8da9 
+88640244 in_game\in_game_effect\jiemainzhijia\panel_new.plist
+886b39e8 
+8871da40 in_game\guide\fx_liaoshang_1.csb
+88767aa4 scenario\scenario0.dds
+887f2683 images\dts_item\package\icn_dts_knife_01.png
+889c6775 images\dts_item\pick\icn_dts_kssq_knife_01.png
+88dc60d8 
+88ec0043 images\dts_item\package\icn_dts_jing_03.png
+88fddabb _international\en\ui\out_game\ui_login\ui_login_en.alpha.dds
+891cd0e8 
+89526428 
+8965d230 in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.csb
+89919545 
+89992b74 
+89d11a62 in_game\ui_handphone_verify\ui_handphone_verify.alpha.dds
+89de304f 
+89f2ddad images\dts_item\pick\img_beixin_tap1.png
+8a4f1cf5 _international\jp\ui\out_game\ui_login\loginpanel\server_info.csb
+8a55f3bb in_game\ui_settings\ui_settings.csb
+8a5c1e98 images\dts_item\tips\icn_dts_fdy2_tips.png
+8a75c898 images\dts_item\tips\img_niuzaiku.png
+8aa3080e 
+8abbdb24 in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage.plist
+8b4c8fa9 
+8b569428 images\dts_item\tips\icn_dts_micaiku_tips_01.png
+8b7b4254 _international\jp\ui\out_game\ui_main_v2\csd\mainscene.csb
+8b9d2f37 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide.dds
+8bea848d _international\jp\ui\in_game\ui_dts_pickup2\ui_dts_pickup2.csb
+8c0e9898 
+8c259742 _international\en\ui\in_game\ui_dts_package2\ui_dts_package2_en.alpha.dds
+8c444b2e in_game\ui_jump_tip\bg_jump_tip.alpha.dds
+8c49d194 images\dts_item\pick\img_yundongbeixin.png
+8c54c802 images\dts_item\pick\icn_dts_kssq_zb_04.png
+8c787025 in_game\ui_dialog\generaldialog.alpha.dds
+8c79e057 
+8c8b4074 _international\en\ui\in_game\ui_money_exchange\ui_money_exchange.csb
+8cbf9476 
+8ce95fde 
+8d2f211c images\loading\loading_5.dds
+8d3a738f 
+8d45ef6f in_game\damage_text\txt_critical_02.alpha.dds
+8d4cb313 
+8d9e5e76 in_game\ui_dts_dialogue\ui_dts_dialogue.csb
+8da0dd59 _international\en\ui\in_game\ui_dts_dialogue\ui_dts_dialogue.csb
+8dc368c7 
+8def9482 
+8e7d8b2d in_game\guide\fx_ditu.csb
+8f1792f6 images\loading\bg_loading_05.dds
+8f1a8ce0 
+8f24a981 images\dts_item\tips\img_niuzaibeixin.png
+8fc83f00 images\dts_item\package\icn_dts_real_09.png
+8fd7a360 images\dts_item\tips\img_beixin_huya.png
+9017ee0b 
+9019a9ea images\dts_item\icn_dts_gun_real_09_02.png
+901a2d46 
+904dca80 images\dts_item\pick\img_beixin_vivo.png
+9064a8f9 images\loading\bg_loading_oasis.alpha.dds
+906607c3 _international\jp\ui\in_game\ui_settings\ui_settings.plist
+907b9feb images\dts_item\tips\img_beixin_yezizhu.png
+907c05d9 images\widgets\img_nvida_physx_logo.alpha.dds
+908c5ea9 
+908f1983 
+90a0b00b in_game\ui_chat\ui_fight_chat.csb
+90acc501 images\dts_item\package\icn_dts_yt.png
+90ba04dc images\dts_item\pick\img_beixin_youmin.png
+90cd51c9 _international\en\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result_en.plist
+90d92582 
+91101391 in_game\ui_dtstutorial_tips\ui_dtstutorial_tips.plist
+91110964 in_game\guide_tips\guide_tips.dds
+91549c81 
+9159a587 
+917a7795 images\equip_area\icn_dts_gun_real_10.png
+918aa3aa in_game\mini_map\dts_mark.dds
+91d8eed1 in_game\ui_social_share\ui_social_share.csb
+91da0f9c _international\jp\ui\in_game\ui_player_info\ui_share_to_sns_aboard.csb
+91dff476 
+91f16842 images\dts_item\gun_name\img_name_33.png
+920b1dd1 in_game\guide\fx_huadongzhuangxiang_left.csb
+921b07e4 images\equip_area\icn_dts_sl_03_02.png
+92306b7b _international\jp\ui\in_game\ui_player_tip\ui_player_tip.csb
+92890f67 images\dts_item\icn_dts_gun_12_up.png
+92a5469e in_game\ui_money_exchange\ui_money.dds
+92a784d6 
+92be38a8 images\dts_item\package\icn_dts_guns_15.png
+92d93296 
+92db237c 
+92fe6165 images\dts_item\icn_dts_gun_real_29_02.png
+930ec137 in_game\ui_jump_tip\ui_jump_tip.alpha.dds
+931e7be1 images\dts_appearance\body\img_beixin_kaola.dds
+93344d0b _international\en\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.csb
+93570ae0 images\loading\loading_1.dds
+935dfa59 images\loading\bg_loading_02.dds
+93a90c3d in_game\ui_dts_pickup\pickup.alpha.dds
+93cb3170 in_game\ui_dts_package\ui_dts_package.csb
+93f4d833 
+9401dcfe 
+940a698d out_game\ui_login\loginpanel\login2.dds
+9410f65d out_game\ui_custom_room_entrance\ui_custom_normal_room.csb
+94116c79 images\equip_area\icn_dts_bq_xsq_02.png
+94ade4a9 _international\jp\ui\in_game\ui_supply_package\ui_supply_package_jp.plist
+94ae10d7 in_game\ui_friendship\request_panel.csb
+94d8bb05 images\loading\bg_loading_02.alpha.dds
+94dc139a debug_ui\debug_ui0.plist
+94e365cc images\dts_item\tips\img_beixin_jingdong.png
+94e61463 images\dts_item\package\icn_dts_real_07.png
+950e263d _international\en\ui\in_game\ui_dts_package2\ui_dts_package.csb
+9536e94f 
+958558e7 images\dts_item\pick\img_beixin_chushou.png
+958814e0 in_game\ui_dtstutorial_tips\ui_dtstutorial_tips.alpha.dds
+95b1d796 images\dts_item\icn_dts_gun_06_up.png
+96aed3e1 
+96dbc7ef images\dts_item\pick\img_beixin_cc.png
+97a2723a images\dts_item\tips\img_beixin_18183.png
+97a58f00 images\dts_item\share\img_wuxiuweiyi3.png
+9812ec63 images\dts_item\pick\icn_dts_kssq_wp_15.png
+981ac045 in_game\ui_player_tip\ui_player_tip.csb
+984d2f3e _international\en\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher_en.dds
+9850f8da images\dts_item\package\icn_dts_sl_01.png
+989213d5 in_game\ui_tips\ui_tips.alpha.dds
+98a9a64b images\dts_item\package\icn_dts_guns_05.png
+98b80541 in_game\ui_battlegrounds_result\ui_battlegrounds_result.alpha.dds
+98bb9512 images\dts_item\pick\img_micaibeixin.png
+98fcceb5 
+9931a2e6 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide02.alpha.dds
+9948ebdf 
+99ab3b88 images\dts_item\package\icn_dts_real_01.png
+99cf74c5 _international\jp\ui\g89na\ui_language\ui_language_jp.alpha.dds
+9a1fa61b images\dts_item\main\7.png
+9a2e137e _international\en\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage_en.alpha.dds
+9a3d14dd 
+9a4af3f3 out_game\ui_system_guide\ui_system_guide.csb
+9a559775 
+9a7f798a 
+9a8633cf images\dts_item\tips\img_beixin_baidu.png
+9af597cf 
+9b40d012 _international\en\ui\in_game\ui_dts_pickup2\ui_dts_pickup2_en.plist
+9b4f71ce 
+9b57b9b4 images\dts_item\tips\icn_dts_guns_tips_02.png
+9b59c7ed _international\jp\ui\in_game\ui_settings\ui_settings_jp.plist
+9bd0ed3a 
+9c40c528 images\dts_item\pick\img_beixin_zhanqi.png
+9c81acee in_game\ui_social_share\ui_social_share.alpha.dds
+9c99ed1d in_game\ui_battlegrounds_fall\txt_dts_ts_01.alpha.dds
+9ca86b12 images\dts_item\icn_dts_gun_25_up.png
+9ce14c67 images\dts_item\gun_info\icn_gun15.png
+9ce28c18 in_game\ui_aim\ui_aim_cross.plist
+9ce8422a 
+9d0b3551 images\dts_item\pick\img_piku.png
+9d26372d _international\en\ui\in_game\ui_team_info\ui_team_info.plist
+9d2edd06 in_game\ui_share\csd\reward.csb
+9d4d0fbd 
+9d565d3a 
+9da03550 in_game\damage_text\txt_critical_01.dds
+9db394e3 
+9e418ee4 images\dts_item\pick\icn_dts_kssq_gun_02.png
+9e90262d images\dts_item\pick\icn_dts_kssq_pj_18.png
+9ecaf7bd 
+9ed15f8a images\dts_item\package\icn_dts_guns_16.png
+9edabb0e images\dts_item\icn_dts_gun_real_08_02.png
+9ef66bfb images\dts_item\tips\img_beixin_uu.png
+9f145f8e 
+9f27c6ad in_game\ui_dts_pickup2\ui_dts_pickup2.alpha.dds
+9f7e3e7c 
+9faaf350 in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage.alpha.dds
+9fb42b99 out_game\ui_cclive\cclive.dds
+9fc3d4b4 
+9fe8be27 
+a00c85bf in_game\guide\guide.dds
+a013a0c2 images\dts_item\pick\icn_dts_kssq_gun_09.png
+a0562727 
+a06b5cdc images\dts_item\tips\img_beixin_cc.png
+a07131f8 
+a0aefb96 images\dts_item\pick\img_xiaofang_body_male.png
+a0b4acd9 in_game\ui_supply_package\ui_mall_controller.dds
+a0c29ef0 
+a0d5824a 
+a115063e 
+a15939fd 
+a161a74c 
+a1a71285 debug_ui\debug_ui0.alpha.dds
+a1c4d06b out_game\ui_main_v2\mainscene.alpha.dds
+a1d5a87b in_game\damage_text\txt_headshot.alpha.dds
+a1f097ea out_game\ui_system_guide\gui\1_2.dds
+a22e57ef 
+a247fd31 images\dts_item\pick\img_niuzaibeixin.png
+a2b91743 
+a2c7a316 _international\en\ui\in_game\ui_dts_pickup2\ui_dts_pickup2_en.dds
+a2dbd94e in_game\ui_rank_list\ranklist.plist
+a2dfac68 images\fight_skill\bg_weapon_cd.png
+a2f51371 images\dts_item\tips\icn_dts_pack_tips_01.png
+a3053860 images\dts_item\icn_dts_gun_14_down.png
+a30e21ee 
+a31f71ad _international\jp\ui\g89na\ui_language\language_choose.csb
+a32f5e0c images\common_tex\bg_building_08.dds
+a34ed1f6 images\share_resource\1.jpg
+a38be4dc 
+a3a36d97 in_game\ui_chat\ui_chat.alpha.dds
+a3cd4d74 images\dts_item\pick\icn_dts_kssq_gun_20.png
+a3f7db00 in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.csb
+a3ffa88d 
+a41bdd29 
+a42299f5 
+a46b5937 images\dts_item\tips\img_beixin_360.png
+a484c5ac in_game\ui_aim\ui_aim_cross.alpha.dds
+a4941916 images\dts_item\tips\img_yurongbeixin3.png
+a4b706f5 images\dts_item\tips\img_beixin_douyu.png
+a4bbb2be 
+a4d1b789 images\dts_item\pick\img_yurongbeixin.png
+a4dd6dfd images\dts_item\package\icn_dts_fdy_03.png
+a4f7b84b 
+a5178aeb in_game\ui_target_hint\img_xs_arrow.dds
+a533289b images\dts_item\package\icn_dts_guns_03.png
+a53abca0 images\dts_item\pick\icn_dts_kssq_zb_05.png
+a57144f0 in_game\ui_debug\ui_debug.csb
+a5a8c5b0 in_game\in_game_effect\fx_loading\animation_loading_follow.csb
+a5fe147a 
+a60c9c40 images\loading\bg_loading_dts.dds
+a6149431 images\dts_item\package\icn_dts_real_02.png
+a66643ed in_game\ui_chat\ui_dts_chat.csb
+a67e3db1 
+a69a62ce images\dts_item\icn_dts_gun_03_up.png
+a6b1dd8f in_game\ui_handphone_verify\ui_handphone_verify.plist
+a6b42079 
+a6bc1134 
+a756c21d 
+a76bb743 images\dts_item\icn_dts_gun_15_down.png
+a7bb5b52 effect\suoding\suoding0.plist
+a7f496e7 images\dts_item\pick\img_beixin_dcn.png
+a85c12de images\dts_item\pick\icn_dts_kssq_pj_25.png
+a86a39c5 images\dts_item\pick\icn_dts_kssq_zb_06.png
+a886d6c9 in_game\ui_complaint\ui_complaint.csb
+a8b7d975 
+a8d6df94 
+a8e7e2fb in_game\ui_battlegrounds_in_game\ui_widget_lib\ui_widget_lib.csb
+a8f04eb4 images\dts_item\useimg\icn_useimg_08.png
+a90f4033 
+a911627d images\equip_area\icn_dts_gun_real_11.png
+a9235c0d images\avatar\portrait\avatar.plist
+a9280abe images\dts_item\pick\icn_dts_kssq_pj_22.png
+a93eeeec in_game\in_game_effect\serverlist_circle\serverlist_circle.csb
+a94cf25f in_game\ui_supply_package\ui_mall_controller.plist
+a954fec7 in_game\ui_dts_dialogue\ui_dts_dialogue.alpha.dds
+a961140d in_game\in_game_effect\fx_loading\animation_loading.alpha.dds
+a9911bca 
+a9dd4e46 _international\en\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result.csb
+a9ed0773 
+aa4401db _international\en\ui\out_game\ui_login\loginpanel\layer.csb
+aa5d9473 
+aa6b7e4d 
+aaa7a531 effect\suoding\suoding0.dds
+aaded906 in_game\ui_team_info\ui_battleground_invite.csb
+aaf198ac 
+ab175cb6 
+ab5267ac 
+ab6784e8 _international\jp\ui\in_game\ui_friendship\mail_panel.csb
+ab882426 out_game\ui_cclive\ui_ccbind.csb
+ab9e345e images\equip_area\icn_dts_bq_xyq_02.png
+abad0bd2 images\dts_item\package\icn_dts_sl_02.png
+abb2550c 
+abe23121 images\dts_item\useimg\icn_useimg_12.png
+ac054d2a images\dts_item\icn_dts_gun_real_18_02.png
+ac1491e5 in_game\in_game_effect\fx_loading\animation_loading.dds
+ac30acf4 
+ac34cd27 _international\jp\ui\in_game\ui_supply_package\ui_supply_package_jp.dds
+ac6bbe5b in_game\ui_gamerule_guide\ui_gamerule_guide.alpha.dds
+aca79934 
+acde6f76 
+ad02132b images\dts_item\icn_dts_gun_real_26_02.png
+ad2725c0 in_game\ui_invite_to_team\ui_invite_to_team0.plist
+ad75eb77 images\dts_item\useimg\icn_useimg_06.png
+adb4fbc1 
+add15d0b 
+ae1cbd27 in_game\mini_map\dtsmap.dds
+ae3cae21 images\loading\bg_loading_test.dds
+ae3cb4f5 
+ae737af5 
+aee077b5 in_game\in_game_effect\jiemainzhijia\zhankai_1.csb
+af2dc1be 
+af3f19a0 _international\jp\ui\in_game\general_progress_bar\bar.plist
+af46cafb 
+af555049 in_game\ui_dts_package2\ui_dts_package2.alpha.dds
+af6e91b1 
+af76a5b0 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide.csb
+af7aca2d 
+af7d9fce in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.plist
+af7db3f8 images\dts_item\pick\icn_dts_kssq_gun_01.png
+af95eab0 
+afb0e990 
+afbac97a 
+afdc71e3 out_game\ui_loading\ui_loading.dds
+b0008779 in_game\guide\fx_duquan_2.csb
+b0779f1a in_game\ui_load_bullet\txt_reload_01.alpha.dds
+b096f2ae _international\en\ui\in_game\ui_supply_package\ui_supply_package_en.alpha.dds
+b0b2c607 images\dts_item\package\icn_dts_shoes.png
+b0d1fe01 
+b0ee675d in_game\ui_friendship\friend_panel.csb
+b1097211 in_game\ui_complaint\ui_complaint.dds
+b175a9ec images\dts_item\pick\img_yurongbeixin4.png
+b186795b 
+b189da09 _international\en\ui\in_game\ui_player_info\ui_share_to_sns_aboard.csb
+b1a07159 
+b1dc6e50 in_game\ui_battlegrounds_result\chicken.plist
+b20d8c48 images\dts_item\package\icn_dts_knife_05.png
+b22a2d8b 
+b2430ccb images\dts_item\gun_name\img_name_16.png
+b2696e3c g89na\ui_language\language_btn.csb
+b26a2418 
+b2995bf8 in_game\ui_player_info\ui_player_info.plist
+b2bd8f34 images\share_resource\pure_share_1.jpg
+b2e57260 
+b2e6bfe8 in_game\guide\fx_huadongzhuangxiang_right.csb
+b2e9634d images\dts_item\useimg\icn_useimg_09.png
+b2ffed5a 
+b34ff0bb 
+b366ccff 
+b3ceaa90 
+b3d4c9e3 in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.plist
+b3d87f0b images\loading\loading_5.alpha.dds
+b3f628ed images\dts_item\gun_info\icn_gun13.png
+b408be1c _international\en\ui\in_game\general_progress_bar\bar.csb
+b40dddf9 images\dts_item\package\icn_dts_sdq_elq.png
+b425c7ff _international\jp\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result_jp.dds
+b430070f images\dts_item\icn_dts_weapon_pp19.png
+b467c137 images\dts_item\tips\img_beixin_17173.png
+b484b680 
+b4b034e8 
+b4e4d924 _international\en\ui\in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.csb
+b4efc7a8 
+b50136fb in_game\ui_common_processing\ui_common_processing.csb
+b5435040 images\dts_item\package\icn_dts_bq_xyq.png
+b5456816 images\dts_item\tips\icn_dts_knife_05_tips.png
+b56552bc _international\jp\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage.csb
+b586b7c8 _international\en\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result_en.alpha.dds
+b59f3c9b images\dts_item\tips\img_chongfengyi.png
+b5a3d469 out_game\ui_main_v2\csd\mainscene.csb
+b5bcb111 
+b5cd9e51 
+b5fed38f images\dts_item\icn_dts_gun_real_11_02.png
+b6a18e5f in_game\ui_debug\ui_debug.plist
+b6acb396 in_game\ui_supply_package\ui_mall_controller.csb
+b6ed5871 images\loading\bg_loading_06.dds
+b6f29f0a images\dts_item\icn_dts_gun_real_03_02.png
+b72f7570 
+b731643b 
+b758646d in_game\ui_battlegrounds_in_game\compass\ui_compass.csb
+b77e843a _international\en\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage_en.dds
+b788c4f2 
+b7b36db6 images\dts_item\gun_name\img_name_04.png
+b7c87afd in_game\ui_jump_tip\ui_jump_tip.csb
+b7de980d in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.csb
+b82a49e2 images\dts_item\gun_name\img_name_17.png
+b83aa2b3 out_game\ui_main_v2\ui\images\common_tex_plist\common_tex.dds
+b85c1449 
+b8952db3 
+b89b6e88 
+b8bae48f images\dts_item\icn_dts_gun_10_up.png
+b8e4630c 
+b92560e1 _international\jp\ui\in_game\ui_dts_pickup2\ui_dts_pickup2_jp.plist
+b92da604 images\avatar\portrait\avatar.dds
+b9e6cbc5 images\dts_item\tips\img_beixin_bilibili1.png
+ba025178 images\dts_item\pick\icn_dts_kssq_zb_07.png
+ba0475f4 
+ba5bb222 images\dts_item\gun_name\img_name_23.png
+ba639723 in_game\ui_settings\ui_settings.dds
+ba6aa335 
+baa13c32 images\dts_item\tips\img_beixin_xiongmao.png
+baa99b46 
+bae6b0e8 images\dts_item\package\icn_dts_bq_sjwb.png
+baeb68ee 
+bb5e403f images\dts_item\package\icn_dts_guns_23.png
+bbb23f44 images\dts_item\icn_dts_gun_13_up.png
+bbd86ebc images\dts_item\tips\img_wuxiuweiyi.png
+bbdb78cd 
+bbe8c15c in_game\ui_player_tip\ui_player_tip.plist
+bbf2c38d _international\jp\ui\g89na\ui_language\language_btn.csb
+bbfbf2c7 images\dts_item\tips\img_wuxiuweiyi3.png
+bc217442 in_game\ui_dts_pickup\ui_dts_pickup.csb
+bc36afd6 _international\jp\ui\in_game\ui_dts_map\bluecircle.csb
+bc56bcde 
+bc5a12ee out_game\ui_main_v2\ui\images\common_tex_plist\common_tex.alpha.dds
+bca3c50a images\dts_item\pick\img_beixin_cc1.png
+bcb7294b in_game\ui_widget_lib\ui_widget_lib.csb
+bcf0925f images\dts_item\main\2.png
+bd00cd35 
+bd515446 in_game\tx_change_tip\ui_attr_change_tip.csb
+bd5a1710 
+bd6a4156 
+bd94de16 _international\en\ui\in_game\ui_team_info\ui_friend_panel.csb
+bdabbfc7 images\dts_item\package\icn_dts_pack_02.png
+bde8a0cd _international\jp\ui\in_game\ui_dts_package2\ui_dts_package2_jp.alpha.dds
+be0414d2 
+be582b24 in_game\ui_aim\ui_aim_cross.dds
+be618a58 images\dts_item\pick\icn_dts_kssq_gun_23.png
+be8dd35b 
+bea29244 
+beaa0131 images\dts_item\gun_name\img_name_27.png
+beb3d74f 
+bedbc769 in_game\ui_battlegrounds_scope\ui_battlegrounds_scope.alpha.dds
+bef29196 in_game\guide\fx_yousheji.csb
+bf07747c 
+bf399d0d 
+bf9c7c03 images\minimap\item_map_04.png
+bf9fa34f _international\jp\ui\in_game\ui_supply_package\ui_supply_package.csb
+c0122d8d 
+c12529c4 in_game\general_progress_bar\bar.alpha.dds
+c1aeefcd in_game\ui_team_info\ui_team_info.alpha.dds
+c1aff838 in_game\ui_money_exchange\ui_money.plist
+c1f0ca15 _international\en\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall_en.dds
+c1f7be31 images\loading\bg_loading_irontown.dds
+c20b48a7 
+c21cbaf6 in_game\ui_dtstutorial_tips\ui_dtstutorial_tips.csb
+c2205a72 
+c222363f in_game\ui_target_hint\ui_target_hint.alpha.dds
+c274314b 
+c2cc647f 
+c325ab39 
+c32f18aa images\dts_item\pick\icn_dts_kssq_gun_05.png
+c33015fc _international\en\ui\in_game\general_progress_bar\bar.plist
+c35cf009 
+c3811285 images\dts_item\pick\icn_dts_kssq_pj_13.png
+c3ac41a4 images\dts_item\icn_dts_gun_26_up.png
+c3c1db90 images\dts_item\package\icn_dts_guns_09.png
+c456ee76 
+c45ece18 
+c4794675 
+c4a0b785 _international\en\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage.csb
+c4aac9ed 
+c4d45f0b in_game\ui_dts_map\ui_dts_map.csb
+c4d51bd5 in_game\damage_text\txt_number_normal_02.alpha.dds
+c4f8980e in_game\ui_chat\ui_fight_chat.dds
+c561fcc6 _international\jp\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume.csb
+c56a3763 in_game\ui_dts_pickup2\ui_dts_pickup2.plist
+c57c322a images\dts_item\icn_dts_gun_real_05_02.png
+c586e2b3 _international\en\ui\out_game\ui_main_v2\ui_main_v2_en.alpha.dds
+c5bb4b91 images\dts_item\pick\img_wuxiuweiyi2.png
+c5c54f04 images\dts_item\tips\img_yurongyi.png
+c5d8d698 
+c5e3fd4c images\loading\loading_9.alpha.dds
+c5e9564b 
+c6159ddc images\minimap\bar_fight_map_02.png
+c640ace4 images\dts_item\package\icn_dts_cfq_xsq.png
+c65e875f _international\jp\ui\in_game\ui_team_info\ui_team_info.csb
+c6a93d19 in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game.plist
+c6ac8fb9 in_game\ui_enemy_vehicle_icon\ui_enemy_vehicle_icon.exportjson
+c6b9fddd _international\jp\ui\g89na\ui_language\ui_language_jp.dds
+c6c7a8b7 
+c6e1b38a in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.alpha.dds
+c6e7e1c1 
+c6e7e5e5 in_game\in_game_effect\prepare\prepare.csb
+c7066c1d images\dts_item\useimg\icn_useimg_17.png
+c70b3eae 
+c72943a1 in_game\ui_dtsoperate_guide\ui_dtsoperate_guide02.dds
+c751acaf 
+c76d301d 
+c78c3c6e 
+c8185f81 
+c81ee928 
+c821474a _international\jp\ui\out_game\ui_main_v2\ui_main_v2_jp.dds
+c847d3e0 _international\jp\ui\in_game\ui_dts_dialogue\ui_dts_dialogue.plist
+c84e59fa out_game\ui_loading\ui_loading.alpha.dds
+c858afc8 
+c88917ee images\dts_item\package\icn_dts_real_02_huoji.png
+c88b631e 
+c8927da5 images\dts_item\pick\icn_dts_kssq_pj_02.png
+c893b90d images\dts_item\icn_dts_gun_15_up.png
+c8b325d0 images\dts_item\icn_dts_gun_08_up.png
+c8b6931b out_game\ui_login\loginpanel\login2.plist
+c8fcc488 in_game\ui_widget_lib\ui_widget_lib.dds
+c98532e3 _international\en\ui\g89na\ui_language\ui_language_en.dds
+c9a3b1e6 effect\suoding\suoding.exportjson
+c9afb4e6 out_game\ui_offline_screen_controller\offline.plist
+c9b07186 
+ca1ddace 
+ca2893c2 images\dts_item\tips\icn_dts_knife_04_tips.png
+ca316242 _international\jp\ui\in_game\ui_dts_package2\ui_dts_package2.csb
+ca36051e in_game\ui_dts_map\ui_dts_map.alpha.dds
+cad68460 images\loading\loading_13.alpha.dds
+caf05e16 
+cb13fb92 images\dts_item\pick\icn_dts_kssq_knife_05.png
+cb2a7372 images\dts_item\pick\icn_dts_kssq_wp_04.png
+cb5341b6 in_game\ui_player_info\ui_share_to_sns_aboard.csb
+cb563e1a 
+cb6bad16 images\dts_item\pick\img_chongfengyi.png
+cb8a216f _international\en\ui\in_game\ui_dts_dialogue\ui_dts_dialogue_en.plist
+cb96a3f9 
+cba5d077 
+cbbe8a9d in_game\ui_battlegrounds_result\chicken.dds
+cbdf9154 images\dts_item\pick\img_niuzaiyi.png
+cc047dee images\dts_item\icn_dts_gun_real_21_02.png
+cc1f89c1 images\dts_item\gun_name\img_name_09.png
+cc51de94 images\dts_item\pick\img_beixin_360.png
+cc6b333d images\loading\loading_13.dds
+cc7f5390 images\dts_item\gun_info\icn_gun07.png
+cca4ea10 out_game\ui_custom_room_entrance\ui_custom_room_game_result.csb
+cce16fd1 images\dts_item\pick\img_beixin_uu.png
+cceef613 images\dts_item\tips\img_zhanlang_leg_male.png
+cd12205a images\dts_item\package\icn_dts_jjq_kskr.png
+cd55e89d images\dts_item\icn_dts_gun_24_up.png
+cd5bdac4 in_game\command\command.csb
+cd7d46be images\share_resource\3.jpg
+cdb89c99 images\dts_item\package\icn_dts_guns_04.png
+cddf6e73 images\dts_item\pick\img_beixin_bilibili.png
+cdf1eae8 
+cdfe8292 images\dts_item\pick\icn_dts_kssq_wp_08.png
+ce056c66 images\dts_item\gun_name\img_name_14.png
+ce12e84e out_game\ui_user_agreement\user_agreement.csb
+ce674385 images\dts_item\pick\img_zhanlang_leg_male.png
+ce748f70 _international\jp\ui\out_game\ui_main_v2\ui_main_v2_jp.alpha.dds
+ce94f6d1 images\dts_item\gun_name\img_name_22.png
+cec9c1d8 
+cee2df9c images\dts_item\icn_dts_gun_30_up.png
+cee6b343 images\dts_item\icn_dts_gun_16_up.png
+cee71872 in_game\ui_tips\ui_tips.plist
+cf2b128c in_game\ui_team_info\ui_team_info.dds
+cf2f50d1 in_game\ui_handphone_verify\ui_handphone_verify.csb
+cf3e0be3 _international\jp\ui\in_game\ui_team_info\ui_team_info.plist
+cf42b53d 
+cf601cce in_game\ui_complaint\ui_complaint.alpha.dds
+cf71e208 
+cfca445a images\dts_item\tips\icn_dts_guns_tips_01.png
+cffa245c 
+d05773f9 images\dts_item\icn_dts_weapon_thompson.png
+d0683dc2 in_game\ui_blood_screen\ui_blood_screen.alpha.dds
+d09270c6 _international\jp\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result_jp.alpha.dds
+d09cba4f images\dts_item\icn_dts_gun_real_19_02.png
+d0b4213f in_game\ui_supply_package\ui_supply_package.dds
+d0ba8210 images\dts_item\gun_name\img_name_18.png
+d1047e10 images\common_tex_plist\common_tex.csb
+d1596a6b images\dts_item\icn_dts_weapon_aa12.png
+d169ee3f images\loading\loading_6.dds
+d1a752f6 images\dts_item\pick\icn_dts_kssq_knife_03.png
+d1aa6820 
+d1d2de6b images\dts_item\package\icn_dts_guns_13.png
+d1fc0164 
+d220de14 
+d28badf7 images\dts_item\tips\img_yundongbeixin.png
+d2ab424f images\loading\loading_0.alpha.dds
+d2c06fcb images\dts_item\icn_dts_gun_real_06_02.png
+d2c6dd9a _international\jp\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume_jp.plist
+d2f1a7b7 images\dts_item\package\icn_dts_tshirt.png
+d302b50c in_game\in_game_effect\serverlist_circle\serverlist_circle.dds
+d3282947 
+d375cbb1 images\dts_item\icn_dts_gun_16_down.png
+d37e2248 
+d38ebeba images\dts_item\icn_dts_gun_17_up.png
+d3dbbafa in_game\in_game_effect\jiemainzhijia\panel_new.alpha.dds
+d3f8d632 
+d3fc2646 images\loading\bg_loading_oasis.dds
+d41b8141 _international\en\ui\out_game\ui_login\loginpanel\server_info.csb
+d44391f0 
+d48605b6 _international\jp\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel_jp.alpha.dds
+d49c747f images\minimap\clipnode.png
+d4a40085 
+d4b9f106 images\dts_item\icn_dts_gun_real_07_02.png
+d4e62934 in_game\ui_team_info\ui_team_info.plist
+d4ea02b3 in_game\ui_share\reward1.alpha.dds
+d4edb4fe out_game\ui_main_v2\csd\battlegroundlayer.csb
+d4f32e17 _international\en\ui\in_game\ui_dts_map\ui_dts_map.plist
+d504bd0a images\common_tex\bg_building_08.alpha.dds
+d51e4701 images\dts_appearance\body\img_chongfengyi.alpha.dds
+d53fec7c _international\en\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel_en.alpha.dds
+d54b8fe6 in_game\guide_tips\guide_tips.alpha.dds
+d5c821d3 images\dts_item\tips\img_beixin_huawei.png
+d621965c 
+d63d41ee images\dts_item\package\icn_dts_guns_14.png
+d6a45c66 _international\en\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game_en.plist
+d6be7873 
+d6fa619f images\dts_item\pick\icn_dts_kssq_wp_14.png
+d7909f48 
+d7b78a63 images\equip_area\icn_dts_jjq_xsq_02.png
+d7e5f379 images\dts_item\icn_dts_gun_19_up.png
+d7fc345a _international\en\ui\in_game\ui_dts_map\ui_dts_map_en.plist
+d81abccf in_game\pingmutexiao_xue\pingmutexiao_xue.exportjson
+d82efae3 images\dts_item\pick\img_beixin_xiongmao.png
+d86094c4 in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.dds
+d8b2320c _international\jp\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage_jp.plist
+d8ba87b3 in_game\ui_chat\voice_tip.csb
+d8c8dd8a images\loading\bg_loading_05.alpha.dds
+d9004da1 
+d94d7424 _international\jp\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall_jp.plist
+d95e41af g89na\ui_language\language_choose.alpha.dds
+d9616b39 in_game\ui_friendship\mail_panel.csb
+d971dbbb images\equip_area\icn_dts_bq_kskr_02.png
+d9763971 in_game\item_pick\item_pick.plist
+d97de942 in_game\ui_dialog\generaldialog.csb
+d9b2d25d images\dts_item\gun_name\img_name_02.png
+d9c3c93e _international\en\ui\in_game\ui_dts_pickup2\ui_dts_pickup2.csb
+d9edf922 
+da10139b images\dts_item\pick\icn_dts_kssq_gun_12.png
+da28dc0f images\common_tex_plist\common_tex.alpha.dds
+da2b67c9 in_game\ui_supply_package\ui_mall_controller.alpha.dds
+da5308aa images\dts_item\pick\icn_dts_kssq_wp_06.png
+daa2e7a0 images\loading\loading_8.dds
+dac28a7c _international\en\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.plist
+dadbb040 out_game\ui_custom_room_entrance\ui_custom_room_entrance.plist
+db3400be images\equip_area\icn_dts_jing_04_02.png
+db44bc7d images\dts_item\icn_dts_gun_07_up.png
+db4efcdb images\dts_item\pick\icn_dts_kssq_pj_05.png
+db7e5c29 images\progressbar\icon_bg_gate_attacked_01.png
+db916911 images\dts_item\gun_info\icn_gun08.png
+dbaef86d images\dts_item\pick\icn_dts_kssq_gun_08.png
+dbc9d025 in_game\ui_dts_map\ui_dts_map.dds
+dbe2e1a9 
+dc20a89b _international\en\ui\out_game\ui_main_v2\ui_main_v2_en.plist
+dc474f0e 
+dc4abcc6 
+dc9fd953 
+dcf01335 
+dd361178 g89na\ui_pc_res\btn_fight_pick_w.alpha.dds
+dd3f9586 
+dd4e9f05 images\dts_item\pick\icn_dts_kssq_zb_11.png
+dd85d543 
+dd932f3b images\dts_item\main\1.png
+ddc2794a 
+ddd93b4c 
+dddd87fc images\dts_item\pick\icn_dts_kssq_wp_03.png
+de18e2bb in_game\ui_share\reward1.plist
+de4eaa5d images\dts_item\package\icn_dts_fist_01.png
+de7474de in_game\ui_bug_report\ui_bug_report.csb
+de8bab04 images\dts_item\pick\img_beixin_youxia.png
+de8bda5d in_game\damage_text\txt_critical_01.alpha.dds
+de948199 
+deb1989a 
+deec4961 
+df8175e3 
+df8b8c13 
+dfade9e9 
+dfda73d0 in_game\default\button_press.alpha.dds
+e00f916d _international\en\ui\in_game\ui_settings\ui_settings.csb
+e054cc27 
+e0583c9f images\dts_item\pick\icn_dts_kssq_zb_10.png
+e082d5f3 images\dts_item\icn_dts_weapon_m870.png
+e0876cd0 images\dts_item\pick\icn_dts_kssq_gun_06.png
+e08a0fa8 _international\en\ui\in_game\ui_team_info\ui_battleground_invite.csb
+e08bcb1b 
+e09f016b 
+e0b9be3c 
+e15f2298 in_game\guide\fx_duquan.csb
+e1b3c549 images\widgets\cursor.alpha.dds
+e1d4cef8 
+e1da8099 images\equip_area\icn_dts_jjq_kr_02.png
+e1e2c665 in_game\text_tips\text_tips_0.alpha.dds
+e23f51de 
+e24aea78 _international\en\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume_en.dds
+e26c372a images\dts_item\package\icn_dts_guns_21.png
+e2739419 images\dts_item\tips\icn_dts_knife_01_tips.png
+e275612c images\dts_item\package\icn_dts_jjq_tsb.png
+e27ec3e4 images\share_resource\pure_share_2.jpg
+e2c35126 in_game\ui_battlegrounds_god_observer\ui_battleground_god_observer.csb
+e2d019ed 
+e3a2f058 images\dts_item\useimg\icn_useimg_13.png
+e3a8d48e images\dts_item\tips\icn_dts_tshirt_tips.png
+e3c02bd9 _international\en\ui\in_game\ui_rank_list\ranklist.csb
+e3c3d5ce _international\jp\ui\in_game\ui_dts_pickup2_heritage\ui_dts_pickup2_heritage_jp.alpha.dds
+e3fb02d5 in_game\item_pick\item_pick.csb
+e46e3572 in_game\in_game_effect\jiemainzhijia\pane_new_0.csb
+e499dd32 images\dts_item\tips\img_niuzaiyi.png
+e4a7e683 
+e522f5cd in_game\ui_rank_list\ranklist.alpha.dds
+e524950c images\loading\loading_2.dds
+e54c3331 
+e55b57da images\dts_appearance\body\img_chongfengyi.dds
+e583cf9f out_game\ui_main_v2\csd\mainlayer.csb
+e586896b images\dts_item\pick\icn_dts_kssq_wp_10.png
+e6351591 _international\en\ui\in_game\ui_player_info\ui_player_info.csb
+e6a83e1c images\dts_item\pick\icn_dts_kssq_wp_02.png
+e6b0aaee images\avatar\portrait\avatar.alpha.dds
+e6bb4809 in_game\pingmutexiao_xue\pingmutexiao_xue0.dds
+e6d179fd images\dts_item\package\icn_dts_jjq_xyq.png
+e752105f 
+e7881339 images\dts_item\gun_info\icn_gun10.png
+e78da188 in_game\mini_map\dtsmap.alpha.dds
+e792ba6d 
+e7bc5cc0 
+e7e96ee6 images\dts_item\pick\icn_dts_kssq_pj_20.png
+e7f97499 images\dts_item\pick\img_beixin_3dm.png
+e80e3115 images\equip_area\icn_dts_jjq_tsb_02.png
+e901c780 in_game\ui_jump_tip\ui_jump_tip.dds
+e93cdece images\dts_item\pick\img_yurongku.png
+e977647c images\dts_item\icn_dts_gun_real_25_02.png
+e9878e2a _international\jp\ui\in_game\ui_bug_report\ui_bug_report.plist
+e9ec39ae in_game\in_game_effect\fx_loading\animation_loading.csb
+ea40bfcf 
+ea45442b in_game\ui_dts_dialogue\ui_dts_dialogue.plist
+eaa48a5e images\dts_item\main\3.png
+eaa4c8ca 
+eaf33928 _international\en\ui\in_game\ui_dts_pickup2\ui_dts_pickup2_en.alpha.dds
+eb3420e0 images\dts_item\icn_dts_gun_22_up.png
+eb830d3e images\dts_item\package\icn_dts_touzhi_01.png
+ebbe042c images\dts_item\pick\icn_dts_kssq_gun_04.png
+ebe5b483 images\dts_item\icn_dts_gun_real_02_02.png
+ec0ffe2e in_game\general_progress_bar\bar.dds
+ec820317 images\dts_item\useimg\icn_useimg_14.png
+ecc0032c 
+ecc8d7fa _international\jp\ui\in_game\ui_battlegrounds_result\tx_effect.csb
+ece7b87e _international\jp\ui\in_game\ui_battlegrounds_in_game\ui_battlegrounds_in_game_jp.alpha.dds
+ed015ef3 
+ed0955d3 _international\en\ui\in_game\ui_settings\ui_settings_en.dds
+ed384975 images\dts_item\pick\icn_dts_kssq_zb_03.png
+ed53cc6a in_game\in_game_effect\serverlist_txt\serverlist_txt.dds
+ed653197 in_game\ui_chat\ui_chat.plist
+ed6c368a 
+edbf7f2c 
+edc4e0cd in_game\ui_battlegrounds_in_game\effectfight\effect_say.csb
+edcfc4c9 
+ee1b96fb images\share_resource\5.jpg
+ee4193f1 images\dts_item\pick\img_beixin_xiongmao1.png
+ee5223b2 
+eeb5ffc0 
+eee3a94c images\dts_item\pick\icn_dts_kssq_gun_19.png
+ef736002 in_game\guide\fx_huandantishi.csb
+ef7b713a _international\en\ui\g89na\ui_language\ui_language_en.plist
+ef84dbcb 
+ef99d409 images\loading\bg_loading_slums.alpha.dds
+efb91863 _international\en\ui\in_game\ui_chat_emotion_panel\ui_chat_emotion_panel.plist
+f00e2a98 in_game\ui_blood_screen\ui_blood_screen.csb
+f02f4ab4 
+f0628f51 
+f0b97556 images\dts_item\gun_info\icn_gun09.png
+f128498e images\dts_item\gun_name\img_name_11.png
+f12a841b 
+f13baaaa images\equip_area\icn_dts_jing_01_02.png
+f1571f27 
+f18e9bb4 images\loading\loading_11.dds
+f1a19363 
+f1a849b1 _international\en\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.csb
+f1acb498 images\dts_item\tips\img_beixin_chushou1.png
+f1b475cd images\equip_area\icn_dts_jing_03_02.png
+f1eb0f7e 
+f24ca4bb images\dts_item\pick\icn_dts_kssq_gun_11.png
+f25f40b4 images\dts_item\icn_dts_weapon_m4a1.png
+f2662535 images\loading\bg_loading_dts.alpha.dds
+f276af65 images\dts_item\pick\img_beixin_bilibili1.png
+f28c4f0a _international\en\ui\g89na\ui_language\language_btn.csb
+f29381cb images\dts_item\tips\img_beixin_chushou.png
+f29f49a6 texture.txt
+f2a88529 images\dts_item\tips\img_piyi.png
+f2b15e5c out_game\ui_main_v2\mainscene3.dds
+f2b81cca _international\jp\ui\in_game\ui_social_share\ui_social_share.plist
+f2babe56 _international\jp\ui\in_game\ui_dts_map\ui_dts_map.plist
+f2bd80ea images\dts_item\tips\img_beixin_benshouji.png
+f2c70cce images\dts_item\package\icn_dts_real_05.png
+f2e03ddf 
+f2fb0382 
+f3114b66 
+f3567c26 
+f384c548 images\battle_icon\bar_fight_hp_11.png
+f3b4b64b in_game\command\command.plist
+f3c5ed20 
+f43a1ff4 _international\jp\ui\in_game\ui_dts_package2\ui_dts_package2_jp.plist
+f471d0e4 images\dts_item\package\icn_dts_pack_03.png
+f528b91f images\dts_item\tips\img_chongfengku.png
+f532c91e images\dts_item\package\icn_dts_pack_01.png
+f54cab6a debug_ui\debug_ui0.dds
+f555f717 in_game\ui_battlegrounds_result\tx_effect.csb
+f564b4ff 
+f5a5c6de images\equip_area\icn_dts_bq_qt_02.png
+f5cd02dc 
+f5e1c3fd 
+f61bfcaa out_game\ui_user_agreement\user_agreement.dds
+f620d1da 
+f62a3ad3 in_game\ui_player_info\ui_alias_panel.csb
+f62ad36e in_game\damage_text\txt_number_normal_02.dds
+f659f755 in_game\default\button_normal.alpha.dds
+f67436c1 images\dts_item\package\icn_dts_jjq_xsq.png
+f68b5569 _international\en\ui\in_game\ui_battlegrounds_result\ui_battlegrounds_result_en.dds
+f6bb2d8e 
+f74f8716 images\dts_item\package\icn_dts_guns_08.png
+f7a46ee2 in_game\ui_dts_package2\ui_dts_package2.plist
+f7dac530 
+f7dd4174 _international\jp\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall.csb
+f83ba8b7 in_game\ui_player_info\txt_purista_20_03.alpha.dds
+f847a95f _international\jp\ui\in_game\ui_dts_map\ui_dts_map_jp.alpha.dds
+f8ac8059 images\dts_item\package\icn_dts_jing_02.png
+f8ae6af8 images\equip_area\icn_dts_sdq_zzd_02.png
+f8c25171 images\dts_item\tips\img_beixin_shihou.png
+f9358468 
+f942c785 images\dts_item\icn_dts_gun_real_30_02.png
+f94c01ed in_game\default\button_disable.dds
+f957a32b out_game\trace\trace.plist
+f96676e9 images\dts_item\pick\img_beixin_douyu.png
+f974317a in_game\ui_gamerule_guide\ui_gamerule_guide.dds
+f97dc05c out_game\ui_login\loginpanel\cinematic.csb
+f9914d62 
+f9ad1608 in_game\damage_text\txt_critical_02.dds
+f9b188f7 images\dts_item\tips\img_wuxiuweiyi2.png
+f9c8de79 out_game\ui_main_v2\csd\playermodellayer.csb
+f9feca2c _international\jp\ui\in_game\ui_battlegrounds_fall\ui_battlegrounds_fall_jp.dds
+fa1d12f5 images\dts_item\gun_info\icn_gun04.png
+fa3f3805 images\dts_item\package\icn_dts_jjq_kr.png
+fa47800d out_game\ui_custom_room_entrance\ui_custom_room_entrance.dds
+fa484abf images\dts_item\icn_dts_gun_02_up.png
+fab8ce40 
+fae0881c in_game\ui_player_info\txt_character_ce_new.alpha.dds
+fb0b3883 
+fb1b34e7 
+fb41f494 
+fb5fd621 images\dts_item\icn_dts_gun_real_12_02.png
+fb78291b 
+fb96619f _international\en\ui\in_game\ui_supply_package\ui_supply_package.csb
+fc403e6b _international\en\ui\in_game\ui_bug_report\ui_bug_report.csb
+fc6bffb5 in_game\ui_friendship\friendship.alpha.dds
+fca7df2a in_game\ui_jump_tip\ui_jump_tip.plist
+fcb81d27 images\dts_item\package\icn_dts_real_04.png
+fcbb046f in_game\ui_dts_pickup2\ui_dts_pickup2.dds
+fcdc6716 images\dts_item\pick\icn_dts_kssq_zb_12.png
+fd05251d 
+fd12f335 images\dts_item\tips\img_qianhuangbeixin.png
+fd2bf8c0 _international\en\ui\in_game\ui_dts_popup_dispatcher\ui_dts_popup_dispatcher.csb
+fd5d79b5 
+fd5f8340 in_game\ui_gamerule_guide\ui_gamerule_guide.csb
+fd74fa88 images\loading\loading_8.alpha.dds
+fd842b1d in_game\ui_chat\msg_templates.csb
+fd88f4c6 
+fdc82aba _international\jp\ui\out_game\ui_user_agreement\user_agreement.csb
+fdc8bb64 
+fdcd5767 out_game\ui_main_v2\csd\battlegroundnewteam.csb
+fe2e7a52 images\dts_item\package\icn_dts_bq_bcq.png
+fe4249f1 _international\en\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume.csb
+fe45bfd9 
+fe9154c2 images\equip_area\icn_dts_jjq_bcq_02.png
+feccd1f0 
+feec601a images\dts_item\useimg\icn_useimg_20.png
+fef3e7b0 
+ff29fe18 images\dts_item\pick\img_beixin_kaola.png
+ff583a43 images\dts_item\pick\icn_dts_kssq_gun_14.png
+ff95f374 in_game\ui_widget_lib\ui_widget_lib.plist
+ffa84649 in_game\ui_player_tip\ui_player_tip.dds
+fffa1907 _international\jp\ui\in_game\ui_dts_appearance_costume\ui_dts_appearance_costume_jp.alpha.dds

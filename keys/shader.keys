@@ -1,0 +1,436 @@
+00d844b2 dissolve_metal.vs
+00ec06a7 meadow_atlas_gl.vs
+01c6699a 
+01ec2dbb 
+0200ed46 cubemap_test.ps
+024acf6c only1texture.nfx
+027fcbb8 openworldmesh_alpha_metal.ps
+02dc3472 meadow_atlas_metal.vs
+040e6918 water_foam_gl.ps
+04f08eff 
+04fe6418 
+05f44b2d 
+08025a11 highlight.fx
+087ccfec light_gl.vs
+08a88e4b lightmap_tfactor.fx
+08ffbde1 shaderlib\sh.fxl
+09541477 dissolve.nfx
+0c0f2ea4 
+0c3aaaa0 
+0ca2c800 common_gl.ps
+0cefa6c0 
+0d715fae 
+0d87ffb1 diffuse_only_gl.ps
+0e6310f6 
+0e7782d7 
+0eb82159 debug_common.nfx
+0eed233d 
+0fb4d29b 
+0fdb9b73 
+10a3beb7 water_foam.fx
+10c44dc1 diffuse_only.nfx
+111dafa2 light_gl.ps
+12db4a1c lightmap_uber.fx
+1422af14 
+14e27ce4 shadow.vs
+15074b58 debug_landscape_metal.vs
+15481113 
+1637bbf8 matcap_gl.vs
+163a1a42 meadow_weight_atlas_runtime.fx
+169e7bcb terrain_2x_lighting.fx
+1732ba91 sfx_general.fx
+19155a7b energy_monster.fx
+19454c98 character_state.fx
+19f0ca1a 
+1a781a6d shaderlib\skin_metal.vs
+1ab0d18c dissolve.fx
+1af2318a 
+1b5df293 outline.vs
+1c584d95 
+1c9ee9da 
+1d292839 
+1dcc7152 
+1e3b45a3 
+1eac0750 
+1ee18849 barrier3.nfx
+1ee54523 common.ps
+1f67029f macro_define.xml
+1fe2fae7 
+219aa584 turbulence.fx
+21cfff80 outline_gl.vs
+22817a1d energy.vs
+228bab36 meadow_tool.nfx
+22aba203 lightmap_uber_metal.ps
+22f34d12 turbulence_model_metal.vs
+230bca1a 
+2344ec88 quan.fx
+23dcb108 
+24d4f6f3 
+2503a85e lightmap.nfx
+251eb4a6 water_clean.ps
+2554325d meadow_tool_metal.vs
+25f80b79 water_ref_gl.ps
+26466bbb meadow_tool_gl.vs
+2765b398 
+27b88131 
+29d62692 
+2abd9798 
+2afd8b6a 
+2b08b053 shaderlib\fog.vs
+2bb7aea6 meadow_tool.fx
+2bf4dfaf 
+2c0bcb78 
+2d8f8f07 
+2ebd27a8 
+2f094ec1 interpolate3layer.ps
+2f2cf06f 
+2f4bce33 
+30d88f94 sfx_general_metal.ps
+30ec0d97 shaderlib\fog_metal.vs
+310fb915 
+311849f7 
+316e295b dissolve_gl.vs
+33f45fa2 
+340fb7ec 
+34713664 
+34943c34 character_chief.fx
+351c3c60 diffuse_only_metal.ps
+35dc07ba openworldmesh.nfx
+361dc833 meadow_base_gl.ps
+362b3777 meadow_weight_atlas_runtime_metal.vs
+366aea07 
+36850b2c terrain.nfx
+36f57379 
+372ab244 meadow_atlas_gl.ps
+37e34125 character_state.nfx
+37f93423 blendadd_no_buffer_gl.ps
+39685fdc 
+3ae1e025 
+3b6ccfa2 water_ref_metal.ps
+3bcfb580 obsidian3_gl.vs
+3da2d2a4 
+3dcf1517 normalmap_highlight.fx
+3ec7e846 
+3f0609b5 sfx_general_gl.ps
+405d48ab simple_dirt.fx
+40cdbe49 dissolve_gl.ps
+40df7071 
+411b602e 
+417adc57 liquid_robot.fx
+435a6ff3 lightmap_uber.nfx
+43f15c30 barrier3_metal.vs
+44342139 skybox_gl.ps
+44cdf29d 
+4645cb64 openworldmesh_metal.vs
+464fde6c 
+47283891 
+47631a97 xray_mobile.nfx
+4791bf01 debug_landscape.nfx
+49c4f2f1 
+4c5754b8 
+4c58ff67 common_gl.vs
+4c67965e 
+4d55add2 
+4d5dd23b 
+4d6c8aae shadow_gl.vs
+4dda2c97 
+4eb22c1b obsidian3_metal.vs
+52105f7c skybox.nfx
+5252d7b6 shaderlib\pixellit.tml
+52a20e9e 
+53352ab4 lighting.vs
+536bf77a 
+54c9334e debug_landscape_gl.vs
+5508590f water_ref.fx
+55fc296a 
+565ea7cf shaderlib\fog_gl.vs
+57c36cce neonlight_gl.vs
+58191da4 
+586fd8c9 meadow_lod_gl.ps
+59461665 
+595c11bd terrain_spec.fx
+5984b843 meadow_weight_atlas_runtime_metal.ps
+59f0e221 
+5a4e8efa lightmap_gl.ps
+5aded821 
+5b679072 shaderlib\skin.vs
+5b6bad46 terrain_common.fx
+5d28398e 
+5dacf244 
+5e6ecb72 
+5e70db8a 
+5f842b35 shadow_metal.vs
+61799453 vegetation.fx
+6207a2e6 meadow_weight_atlas_runtime_gl.ps
+621881f2 openworldmesh_gl.ps
+631d59cb 
+639c9d10 
+63a6e25e 
+652c3781 
+654a434b lightmap.ps
+6669ed7f 
+668caaea 
+668f6b47 
+67bdfde3 blendadd_no_buffer_metal.ps
+688eceeb 
+6922358f 
+699a59e8 shadow_gl.ps
+6a18cd49 
+6a72dce3 landscape.nfx
+6b05d84a lightmap_gloss.fx
+6bf2fb50 
+6bffd613 
+6e3e04be sfx_general.nfx
+6ed9786e 
+6edb90e2 
+6ee2caba meadow_atlas.fx
+6f15b352 common_nolight.nfx
+6fb13c73 river.fx
+6fe91f25 
+70127820 openworldmesh_metal.ps
+7087791f 
+7091c911 landscape_detail.nfx
+7102d16a ghost.ps
+7202f80e xray_mobile.fx
+72a1bdcb 
+73b5186a 
+740fa7e2 common_defination.fx
+743347e8 
+7443e358 
+747164a9 common.vs
+75323430 lighting.ps
+75bae88e 
+7a79ed85 
+7c822024 
+7ce22c4e 
+7d5875bb skybox_metal.vs
+7e4ec68d glow.fx
+7ef624e6 new_water.fx
+7f38e6b7 
+7f7712b3 
+7f830754 common.nfx
+7fd9919a 
+808a0528 leaf.fx
+80e3516a alphamap.fx
+81052998 light.fx
+823458e9 
+841c6a8c 
+852f4548 meadow_base_gl.vs
+85524212 shadow_fake.nfx
+857aa530 neonlight_metal.vs
+85feeb36 lightmap_uber_metal.vs
+866ce93b cube\near.cube
+8681952d 
+86bd8c1f neonlight_metal.ps
+8793393d 
+88369485 
+88a1e306 shaderlib\vardefination.fxl
+88acd2ef debug_common_gl.ps
+88b0d1c2 turbulence_gl.vs
+88bef50a openworldmesh_alpha.nfx
+88bfbb97 barrier3.fx
+8942945b terrain.fx
+898079ce water_clean.vs
+8a5b6c94 shaderlib\skin_gl.vs
+8a9e4d65 
+8b2cf2ec 
+8c633a9c 
+8ccc9745 
+8dc573b8 
+8e88eda0 meadow_lod_metal.ps
+8f0d6641 meadow_weight_atlas_runtime.nfx
+90b25112 debug_common_metal.vs
+90e9c766 shaderlib\struct.fxl
+91fbe04a 
+936c0df4 
+939a159d turbulence_model_gl.vs
+93aded3c turbulence.nfx
+93eee7ab 
+95255b3d 
+964db48a common_metal.vs
+97d9dd44 
+98037f09 
+9897cdf4 
+9a1cac5e blendadd_no_buffer.fx
+9b9b16d1 turbulence_model.nfx
+9c5b336c turbulence_model_metal.ps
+9ce3ff98 
+9d811cf7 
+a05e2e54 skybox.fx
+a3c42c6e meadow_lod.fx
+a45fe7b5 debug_common_metal.ps
+a4d6c521 
+a5320fa7 
+a660de6f 
+a70106fc blendadd.ps
+a75e1480 
+a7e6c8ed 
+a9197250 
+a98c2784 
+aa05a23a 
+ab6ad1c4 blendadd.fx
+abb288e0 water_ref_metal.vs
+abd244ef turbulence_gl.ps
+abf98dbf common_nolight.fx
+acace6fb 
+acd5c40e barrier3_gl.ps
+ad7ceab4 
+add92b3d 
+aef773b9 neonlight.nfx
+af189921 terrain.ps
+af8f6077 shaderlib\extension.ps
+afa4afd0 shaderlib\weather.fxl
+b042ceac 
+b078b271 
+b0c58409 meadow_tool_gl.ps
+b0d64b31 obsidian3.nfx
+b103388b shaderlib\extension_metal.vs
+b1aed2ae shaderlib\extension.fxl
+b1fa0594 shaderlib\common.fxl
+b2182ccb common_nomerge.fx
+b25c3933 
+b391df46 meadow_atlas.nfx
+b39c4dbc 
+b4be8c12 matcap.nfx
+b4d9c2f6 sfx_general_metal.vs
+b521f081 
+b5ce74aa 
+b5d94e18 
+b61bf841 common_defination.nfx
+b6232d06 blendadd_no_buffer_gl.vs
+b7112d33 
+b7343250 
+b8929a81 shaderlib\lighting.vs
+b9031663 
+b983f891 
+ba7a932c water_foam.nfx
+bb202fe0 
+bb320f7f 
+bbe91084 diffuse_only_gl.vs
+bc35a509 water_foam_gl.vs
+be1dd94a turbulence_metal.vs
+be8f8327 
+bf20e15d 
+bfab8eac landscape_metal.vs
+c0a1f1bc blendadd_no_buffer.nfx
+c0b04993 meadow_atlas_metal.ps
+c130a61c obsidian3_metal.ps
+c16f1573 outline_gl.ps
+c2b8cb3e 
+c2e9a01e 
+c31fb939 meadow_base.fx
+c363b6e0 meadow_base.nfx
+c43487b4 
+c44b5e76 dissolve_metal.ps
+c4ffe807 turbulence_model_gl.ps
+c53d9ac9 
+c5a808f3 turbulence_metal.ps
+c5d6eca7 openworldmesh_gl.vs
+c5f42f36 only1texture.fx
+c7654e10 meadow_base_metal.vs
+c7748110 
+c91b09a6 skybox_metal.ps
+c98e0bb9 light_metal.ps
+c99e6a1b 
+c9f06044 shadow_metal.ps
+ca02f074 
+ca5ad198 landscape_metal.ps
+ca5ae9c7 light.nfx
+cb34e3de 
+cb5f076c barrier3_gl.vs
+cc1b3b44 
+cc1ce7a5 water.fx
+cc28ad6a outline.ps
+cc62fa82 
+cc8de056 
+cd37643d 
+cd7bd352 shaderlib\fog.fxl
+cda5ec53 meadow_lod_metal.vs
+cdae4ab7 obsidian3_gl.ps
+cdd460ce 
+cde8c224 
+ce9fd08c 
+cf1b962f glow.nfx
+cf4a3edb shaderlib\extension_gl.ps
+d0515106 lightfunction_no_z.fx
+d0c8c335 barrier3_metal.ps
+d0cd6626 neonlight.fx
+d19d99df shaderlib\extension_gl.vs
+d1f7e7cd 
+d37edc85 texture_emiss.fx
+d40a7bab 
+d532be4b obsidian3.fx
+d5382af9 shaderlib\fog_metal.ps
+d56d0cdb commonnolight.ps
+d7259b00 shadow.nfx
+d7bc6c4f 
+d97f354f 
+da4e498d openworldmesh_alpha_gl.ps
+da5a1d8d 
+dc6e2bc9 wow_saber.fx
+dc912978 
+dcbef923 matcap.fx
+dce3dc75 sfx_general_gl.vs
+dcf25ecb turbulence_light.fx
+dcfc9498 blendadd_no_buffer_metal.vs
+dd341d2a energy.ps
+dd593233 landscape_gl.vs
+dddcd401 
+ddded8e8 meadow_base_metal.ps
+dff7630e light_metal.vs
+e06286ad 
+e0b5a6f0 
+e0c3f3d9 xray_mobile.ps
+e0db5fd3 
+e0eaa06f 
+e1052c08 diffuse_only_metal.vs
+e19b04f6 glow_gl.vs
+e1c80dcc lightmap_uber_gl.ps
+e1e0beaa 
+e2137154 
+e26ebf50 
+e495896c common.fx
+e5391fa7 
+e5ce1178 meadow_tool_metal.ps
+e63c569e landscape_gl.ps
+e76dea92 water_ref_gl.vs
+e89e9b60 
+e9c8cc40 
+ea9916a6 alphamap.ps
+eafd00e8 
+eb38152f 
+ed0c855d 
+edd4629f meadow_lod.nfx
+eec265a7 neonlight_gl.ps
+eee665eb common_metal.ps
+ef079dc9 water_ref.nfx
+ef0d64b4 
+ef4a11ba 
+efbbfcd1 
+efc2454b shadow.ps
+efc43c02 shaderlib\extension_metal.ps
+f01b70d1 road.nfx
+f0e32c0a 
+f196c752 meadow_weight_atlas_runtime_gl.vs
+f30a0c88 
+f32ddb12 lightfunction_z.fx
+f33e8df9 terrain_gl.ps
+f5d19404 
+f7f2aef3 meadow_lod_gl.vs
+f8532fb5 
+f9756a77 turbulence_model.fx
+f9b45193 
+fa306e13 debug_common_gl.vs
+fb301c3f 
+fb4bcb35 
+fd36cb61 terrain_gl.vs
+fd3fe223 shaderlib\lighting_metal.vs
+fe32b22e obsidian.fx
+feb991fd glow2.fx
+fec5eae5 glow_gl.ps
+ff06d6d0 lightmap.fx
+ff4bb42b diffuse_only.fx
+ff503a37 
+ff6892e3 
+ffc86d2f skybox_gl.vs
+ffce6a26 lightmap_uber_gl.vs

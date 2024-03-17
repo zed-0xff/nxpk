@@ -1,0 +1,291 @@
+006864eb 
+0129a485 defs\dynamicspace.def
+02256b58 defs\interfaces\iskillstate.def
+0247853e defs\c4installarea.def
+05eb7ffd 
+0985c276 defs\legiondefendspace.def
+09dd00e1 defs\singlebattlematchstub.def
+0c9c6789 
+0d2c5535 defs\hallteamstub.def
+0d8bd89a 
+0db9807c 
+0dc541e0 defs\interfaces\idtsequipappearanceathlete.def
+0dc9073d defs\skillmissilesummonentity.def
+0eee8917 defs\droppedc4item.def
+0f802f21 
+10062ff1 defs\interfaces\idtsequipappearanceavatar.def
+10f2680a defs\interfaces\ilandvehicle.def
+114f6df2 defs\switchbomb.def
+117a482f 
+11d15fc8 defs\clientweaponentity.def
+1274e89f 
+127cfba5 defs\interfaces\ifriendstub.def
+12d35158 
+12ff6945 defs\installedc4item.def
+135383fd 
+135727f7 defs\clientteammate.def
+1412e919 defs\interfaces\icommonlive.def
+14359f0f defs\npc.def
+181103b2 defs\avatarvehicle.def
+1829535a defs\skillclientmagicfield.def
+188ccd9e defs\singlematchstub.def
+188e9cad 
+18a1a29b defs\campsite.def
+1a103460 
+1a8cbd11 defs\treasurechest.def
+1b5055db defs\rolestub.def
+1d645aaa defs\interfaces\ionlinedata.def
+1f38d65c defs\teammanagerstub.def
+2043907c defs\interfaces\imatchspace.def
+2423fbed defs\defendtower.def
+25abc9c1 defs\interfaces\ibattleground.def
+284be995 
+2ad24563 
+2ba5466c 
+2bc0d2e1 defs\quizstub.def
+2beed24d defs\mine.def
+2ec45271 defs\pickablemonster.def
+2fca804b defs\spacestub.def
+31b995c7 defs\interfaces\ichatfight.def
+3260b317 defs\interfaces\imatchsystem.def
+3298c23a defs\robot.def
+32e3064f defs\interfaces\irank.def
+32f43548 defs\racejudgearea.def
+3371880f defs\gmadminstub.def
+3403a35e defs\blastspace.def
+341dd01c defs\interfaces\imailstub.def
+36d7b094 
+378e88ea 
+379e3637 
+37e2afae 
+3810f458 
+3a9801e3 defs\battlegroundspace.def
+3b9aeea4 defs\worldspace.def
+3da0d9ab 
+3f2feccf defs\account.def
+3f972b02 
+407e979c defs\globalbasestub.def
+40b95034 defs\minestub.def
+410c2fc5 
+419bfa48 
+41d74ca3 defs\challengespace.def
+4296e5b1 defs\venturestub.def
+43d5c288 
+444f6864 defs\interfaces\idtssafetysystem.def
+4492084a defs\interfaces\icomplaint.def
+457d1814 defs\interfaces\iskill.def
+46a4aeb0 defs\taskarea.def
+46b5eef7 
+46edd569 defs\interfaces\icustomgameobserver.def
+4719e910 
+472e0532 defs\interfaces\ivehicle.def
+48835979 defs\interfaces\idtsprop.def
+48c60916 defs\activitystub.def
+4abbc980 defs\interfaces\icomplainthall.def
+4b4e7c49 defs\wilddungeonspace.def
+4b51ab60 
+4ca5d257 defs\interfaces\iofflineoperation.def
+4d9134f8 defs\legiondungeonspace.def
+4e3e1762 defs\battlegroundmatchstub.def
+50d8f960 defs\legion.def
+517a9604 defs\planespace.def
+5262a0c4 defs\npcvehicle.def
+538d66d7 defs\skillmissilefixeddestinationsummonentity.def
+54cd2e4b 
+572b54ab 
+582c77d2 defs\dtsplayerheritage.def
+585ee1ee defs\buffspot.def
+5981685a defs\sniper.def
+5b5aca71 defs\rankedmatchstub.def
+5bba6ca8 defs\ligeancesourcetruck.def
+5c70e1ff defs\interfaces\idtscustomgame.def
+5c79a6ee defs\skilllocktokensummonentity.def
+5ddf9f36 defs\battlegroundforcerankliststub.def
+5e5265c4 defs\interfaces\iawardmonitor.def
+5ee651eb defs\globalspacestub.def
+5eff40c4 defs\skillmagicfield.def
+5f6f8f10 
+61d9cc5e defs\interfaces\imall.def
+62af6f01 
+63834335 defs\battlespace.def
+6389892e 
+63c45516 
+6407dc3b defs\skilldetectexplosivesummonentity.def
+668a3d8e defs\interfaces\iquickmessage.def
+67678221 defs\monstervehicle.def
+68786aa2 
+68f77735 defs\interfaces\iproxy.def
+6b4a1a6e defs\dtscustomgamestub.def
+6cece9b4 defs\transferstone.def
+6e2e2481 
+6e775cb8 defs\crackitem.def
+6e9078f4 defs\skilldamageovertimesummonentity.def
+6ebef413 
+6f5df0d3 
+6ffb0931 defs\battlegroundtutorialspace.def
+701620a5 defs\dtsrankvaluestub.def
+7072c62f 
+71773a14 defs\sceneswitch.def
+7249f480 
+7319f4ba 
+73476750 defs\skillexplosivesummonentity.def
+74041137 
+745300f3 defs\legionquizstub.def
+746b62ff defs\lonelyspace.def
+7526ee01 
+7550a404 defs\interfaces\isigned.def
+76ed4190 
+7764f120 
+797be804 defs\genentityspot.def
+7c78ef0b defs\interfaces\icombatunit.def
+7c82cda0 defs\interfaces\ipay.def
+7ddade81 defs\battlegroundkillingrankliststub.def
+7eca648e 
+7fbdc87d defs\legionwarspace.def
+7fe8490f 
+8000e10c defs\interfaces\inormalcombatunit.def
+8004a63a 
+803fa808 defs\interfaces\iadvertisement.def
+81e1e064 defs\interfaces\ichathall.def
+83a35738 defs\interfaces\isupplement.def
+85fb96b7 defs\loginproxy.def
+8721f064 
+8783383b defs\robotstub.def
+87f9fe9d defs\legionligeance.def
+880dc171 defs\skillmagicfieldmove.def
+88711b7f 
+888bbed8 defs\channel.def
+88c3a94b 
+88d14d31 defs\interfaces\idtspackage.def
+89e4abb7 
+8ab7aae7 defs\sceneelement.def
+8b6ebb66 
+8bf88b86 
+8ccddc74 
+8ce49ec2 
+8d24d5d9 
+8e078e9b 
+8fabb887 defs\battlegroundwinningrankliststub.def
+911751a9 defs\skillgunlikesummoncreateentity.def
+917104e5 
+924e07bb defs\hallteam.def
+952d2fa2 defs\detector.def
+95970445 defs\deatharea.def
+95dbf6da 
+9671fd21 
+96d2a6d4 defs\monsterstub.def
+971037d5 
+9778cd57 
+9a4c98e5 defs\interfaces\ishare.def
+9b3be25c 
+9c033eee defs\ligeancesourcestub.def
+9c05fc29 defs\avatar.def
+9c663f3e defs\landcar.def
+9cc64ce5 defs\legionhomespace.def
+9d7a6766 defs\interfaces\ifriend.def
+9d7f25ab defs\interfaces\icurrency.def
+9da491e5 defs\interfaces\itaskavatar.def
+a1e20a3e defs\minearea.def
+a4883ea4 defs\skillclientexplosivesummonentity.def
+a4bf4a95 
+a4e330e2 
+a50ad8d3 
+a595560f defs\racingspace.def
+a5a42cbe defs\teleportgate.def
+a5c6182b defs\interfaces\ilatency.def
+a63389e2 defs\interfaces\i4gqosaccelerator.def
+a6bfa9b4 
+a7e87ae9 defs\ligeancesourcespace.def
+aa252e5c defs\rankliststub.def
+aa95045a defs\space.def
+abf0909a defs\interfaces\inickname.def
+ac4bfd8f defs\interfaces\ianticheating.def
+ad3365ce defs\interfaces\ibugreport.def
+ad3991c5 defs\teamstub.def
+ad39d839 defs\crontabstub.def
+ad869de2 defs\damijingspace.def
+adfda064 defs\skillexplosiveservmovepolylinesummonentity.def
+ae79cf4b defs\queuestub.def
+b06ca9e8 defs\interfaces\igmadmin.def
+b198e849 defs\landmotor.def
+b1a8fb9b defs\manualteamstub.def
+b1f8051b defs\interfaces\irobotgenerate.def
+b29f158d 
+b7103da6 
+b872790d 
+ba6fb7d1 defs\skillwingmanexplosivesummonentity.def
+ba7c4da2 
+bb32652b defs\interactelement.def
+bcdfc1f3 
+be11a25b defs\commonlivestub.def
+bf60e8df defs\interfaces\idtsappearancepackage.def
+bfe2c8e4 
+bfeb3169 defs\dungeonspace.def
+bfeb8ec9 
+c1f697d7 defs\monster.def
+c2068bd1 
+c2772d80 
+c3511eb2 defs\interfaces\ilanddrive.def
+c40d7c10 defs\timetrialracingspace.def
+c479a711 defs\battlematchstub.def
+c5051a0c 
+c54c9afb defs\interfaces\idtsequip.def
+c57e317a defs\interfaces\imove.def
+c78846c8 
+cb6eafd7 defs\wilddungeonrefreshstub.def
+cef42fce defs\interfaces\imail.def
+cf2f0470 defs\team.def
+d0734da0 defs\interfaces\ichat.def
+d1780b13 defs\dtsbombsummonentity.def
+d1cea389 defs\vehiclearenaspace.def
+d3cc9be7 
+d4de660b defs\interfaces\iequipproperty.def
+d68834b3 defs\plane.def
+d709f2bf defs\activitymatchstub.def
+d99656a1 
+d9aee0dd loginapp.pubkey
+da4e5595 defs\battlegroundcustomspace.def
+da5d5ab4 defs\cclivestub.def
+dac6415c defs\wilddungeonnpc.def
+db694dc4 defs\dtsprop.def
+dbd74bc3 defs\vehiclebattlespace.def
+dcb6327a defs\sheltergroup.def
+de814241 defs\npcbase.def
+def8ed6b 
+df43ad08 defs\ammunitionbox.def
+dfa12c6a 
+e02850bc 
+e27e959d 
+e4479691 defs\paystub.def
+e4c5d08c 
+e544297b entities.xml
+e60e5bc6 
+e67c0ea5 defs\legionstub.def
+e7883bc0 defs\interfaces\ibindphone.def
+ea6b2959 defs\alias.xml
+ec4b4c69 defs\tianzhu.def
+ed4ea493 defs\interfaces\ihallteam.def
+ed9d0951 defs\landbike.def
+eed94cec defs\battlegroundrankedstub.def
+ef1e1808 defs\behaviorstub.def
+ef54aecd defs\interfaces\idtscustomgameavatar.def
+ef862a8f defs\tank.def
+f059656a 
+f1373664 defs\athlete.def
+f2656482 defs\interfaces\ilegion.def
+f55c0a68 
+f7a59730 defs\skillsummonwing.def
+f7c75739 defs\interfaces\itrap.def
+f855488e defs\shelter.def
+f858762d defs\interfaces\ivehiclecomps.def
+f8e0f540 
+f9c10344 
+f9ca1710 defs\ccministub.def
+fb0b9cb4 
+fc7104b3 defs\singlebattlespace.def
+fe86d266 defs\wilddungeonarea.def
+fe8dfd93 defs\legionquizroom.def
+fee3f664 
+ff398109 defs\interfaces\iavatarskill.def
+ffd3eff2 
+ffde8f29 

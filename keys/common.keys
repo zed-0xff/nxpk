@@ -1,0 +1,494 @@
+0010c24e pipeline\shadow_on_plane_gl.ps
+004f258d 
+0068c50a 
+0090ee62 
+0198b800 
+024a4c8a shader\cocosui\position_ucolor_metal.ps
+029ed970 pipeline\hdr_downsample.fx
+02f06814 shader\cocosui\labeloutline_metal.vs
+032228cb 
+03a9f153 shader\cocosui\gray_metal.vs
+03d2ec4b shader\cocosui\positiontexture_metal.ps
+040e0bae pipeline\dark_corner_metal.ps
+049c25f1 shader\cocosui\labeloutline_gl.ps
+04e344e0 
+05035acb pipeline\textures\rgbtable1x16.dds
+050fe5d8 shader\water.fx
+0535e6ff pipeline\hdr_downsample.nfx.json
+05533ca4 shader\new_effects\blend_uv_metal.ps
+055cc613 shader\cocosui\positiontexturea8color_metal.ps
+05aa104e shader\new_effects\blend_uv.nfx
+06989700 
+06a02272 
+06b34ea6 shader\new_effects\blend.nfx
+08983021 
+099b5ad8 
+09b50c9e 
+0a0a6bf2 shader\cocosui\positiontexturecolorgray_nomvp_metal.vs
+0a53d62f 
+0c698613 pipeline\copy.nfx
+0c6f75ef 
+0d2dcb5a 
+0d307c1d pipeline\shadow_on_plane.nfx
+0d3d3858 pipeline\gpu_polytube.fx
+0dc709d4 shader\cocosui\positiontexturecoloralphatest_nomvp_metal.ps
+0e482907 pipeline\hdr_downsample_gl.vs
+1059b27c 
+10b68bcd pipeline\hdr_downsample2.nfx
+10ea0c9e shader\simpletech_gl.vs
+11072154 pipeline\pointwave_gl.vs
+11079579 shader\new_effects\plasma.fx
+12c65849 
+1325aabe pipeline\hdr_kawase3_metal.vs
+1364671f 
+13745f7b pipeline\radial_blur.fx
+13d24347 
+14fe0865 shader\cocosui\positiontexturecoloralphatest.ps
+15c106ff textures\water_wave.dds
+1623bde9 pipeline\hdr_kawase0.nfx.json
+17bd71be 
+17f6524e shader\cocosui\labeldistancefieldnormal_metal.ps
+197774da 
+1992a8fd pipeline\decal.fx
+1b5df293 outline.vs
+1caaec2b 
+1d27dea0 shader\cocosui\labelnormal_gl.ps
+1d504e80 shader\cocosui\positiontexturecolor_nomvp.vs
+1da2207b shader\cocosui\positioncolortextureaspointsize.vs
+1dcbb561 pipeline\hdr_kawase0.nfx
+1e0b1509 
+1e29930b 
+1e84297f 
+1e86bd93 shader\cocosui\positiontexturecoloralphatest_metal.vs
+1f27bfab shader\cocosui\positiontexturecolor_gl.ps
+1f2d3876 pipeline\simple_hdr_gl.vs
+2038c2e0 shader\blendadd.spzs
+204fb428 shader\cocosui\gray.ps
+214a1f25 
+21645752 shader\cocosui\positiontexturecoloralphatest.vs
+21cbb23f pipeline\hdr_downsample2_metal.vs
+21cfff80 outline_gl.vs
+21d8662a shader\blendadd_gl.vs
+2257da70 shader\blendadd_metal.vs
+22822337 shader\cocosui\labeldistancefieldnormal_gl.ps
+228f6c76 pipeline\hdr_bright_metal.vs
+22d25373 
+2348ee77 shader\blendadd.nfx
+2351201f pipeline\hdr_sample_gl.vs
+2359e92a 
+24573612 
+24ff513b pipeline\hdr_kawase3_metal.ps
+26b0cb6d shader\cocosui\gray_gl.ps
+26d01e2e shader\blendadd.fx
+28ffb90b shader\cocosui\labeloutline.ps
+29221d4c shader\cocosui\positiontexturecolor_nomvp_gl.ps
+293a27c8 pipeline\radial_blur.vs
+2b02ad81 shader\cocosui\position_ucolor_gl.vs
+2b4d6a37 
+2bf87b0c 
+2c67c3ce shader\cocosui\positiontexturecolor_gl.vs
+2cc56859 pipeline\hdr_sample.nfx
+2d76f434 textures\wind_noise.dds
+2db9cd08 shader\cocosui\labeldistancefieldglow_gl.ps
+2e43e103 pipeline\hdr_kawase1.nfx
+2f063bc4 pipeline\copy_gl.vs
+2f4e0fd1 shader\cocosui\positioncolor_nomvp_metal.ps
+309489ae shader\cocosui\labeldistancefieldnormal_gl.vs
+30aad38a 
+310f5559 
+3186b7d7 
+32099eda shader\cocosui\positioncolortextureaspointsize_metal.vs
+32801958 
+3383e896 
+35528da6 pipeline\textures\dark_corner.dds
+35dadcf9 pipeline\color_grading_mask.fx
+3647d0db pipeline\bloom.nfx
+37cd3db6 shader\cocosui\labelnormal_metal.ps
+37da5966 
+38a0d5cf 
+39262403 pipeline\hdr_kawase3.fx
+3a8e0ec7 shader\cocosui\positioncolor_nomvp.vs
+3ac75d9d 
+3ae1ba82 pipeline\hdr_downsample2_gl.vs
+3c2ff45c 
+3d056ad2 shader\cocosui\positiontexturecolorgray_nomvp_metal.ps
+3d1eb7b7 shader\simpletech.spz
+3d300725 pipeline\dof_mobile_gl.ps
+3d547e59 
+3e545e04 pipeline\hdr_sample.nfx.json
+3ea2f957 shader\cocosui\positiontexturecolorgray_nomvp.ps
+3ea3f61d shader\simpletech.ps
+3f15421c pipeline\hdr_downsample2_metal.ps
+401fc3e8 pipeline\copy_metal.vs
+4038d94b pipeline\dark_corner_gl.vs
+40551905 shader\cocosui\positiontexturea8color.ps
+4101a22f 
+41920209 shader\new_effects\blend_uv_clamp.fx
+41bb71d5 pipeline\simple_hdr_gl.ps
+4288c677 
+42b368f3 
+433093ee 
+43c57a19 shader\cocosui\positiontexture_gl.ps
+43ee62c6 
+44d8a064 shader\new_effects\erosion_gl.ps
+455cca73 
+459530de pipeline\shaderlib\common.fxl
+45bb2d57 shader\cocosui\positioncolor.vs
+460f47c7 shader\cocosui\gray.spz
+463dec52 shader\cocosui\positiontexture.ps
+474359ab pipeline\bloom_gl.vs
+486ebb6f shader\cocosui\labeldistancefieldnormal_metal.vs
+488e41ed pipeline\light_prepass\dir_lighting.fx
+490552f7 
+49990b30 
+49cf7984 shader\cocosui\positioncolorlengthtexture_metal.vs
+49dad9bf shader\blendadd.ps
+4a2806c8 shader\common_metal.ps
+4b3bd180 shader\new_effects\blend_gl.vs
+4c0889f7 pipeline\pipeline.xml
+4c3cce62 pipeline\dark_corner_gl.ps
+4ca7730d shader\new_effects\blend_uv.fx
+4ddf331a pipeline\pointwave.fx
+4eef3cb8 shader\cocosui\positiontexturecolorgray_nomvp.vs
+4f1e710b shader\cocosui\positiontexturea8color_metal.vs
+51baf321 shader\new_effects\erosion.fx
+5222b039 shader\new_effects\plasma.nfx
+52269c68 shader\cocosui\positiontexturecolor.vs
+52aa88c3 pipeline\dark_corner_metal.vs
+531c2f46 pipeline\bloom.vs
+53320932 shader\cocosui\positiontexturecoloralphatest_metal.ps
+53ac662f pipeline\shadow_on_plane_metal.ps
+53da2c67 pipeline\radial_blur_gl.ps
+53e7a574 pipeline\dark_corner.nfx
+5406a25b 
+54568b2a 
+548c1886 shader\new_effects\blend_uv_gl.vs
+549a9096 
+54a010ca shader\blendadd.spz
+5619d17d 
+565a03d0 shader\cocosui\positiontexturecoloralphatest_nomvp_metal.vs
+575d5a51 pipeline\hdr_kawase3.nfx.json
+57af0595 shader\cocosui\labeldistancefieldglow_metal.ps
+57d37463 
+5820ba28 pipeline\halo.fx
+583403dc 
+58d1437c shader\cocosui\positiontexturecolor_nomvp_metal.ps
+59a5066c outline.fx
+5a25af8c pipeline\hdr_copy.fx
+5a44d34b 
+5b132e2c pipeline\shadow_on_plane_gl.vs
+5b402724 pipeline\smooth_shadow_gl.ps
+5b80ec83 
+5bbdfee8 pipeline\hdr_kawase1.fx
+5c3f759e 
+5c56f0ce pipeline\pointwave.nfx.json
+5cedf9f5 shader\common.vs
+5eca3ab1 
+5ed75d32 
+5f65b9fe pipeline\hdr_adapt.nfx
+5f83ddf3 pipeline\sun_shaft_gl.ps
+60e1eed3 shader\cocosui\positiontexturecolorgray_nomvp_gl.ps
+60f2836e shader\new_effects\plasma_metal.vs
+616fbd82 
+61bb553b 
+62086061 shader\cocosui\positiontexturea8color.vs
+63ba453c pipeline\simple_hdr.nfx
+63d720ef pipeline\hdr_sample_metal.vs
+64cc9b4e pipeline\hdr_copy_metal.vs
+650f1ce1 
+65c57570 pipeline\hdr_downsample2_gl.ps
+663c3db5 
+6652de55 pipeline\bloom_gl.ps
+6652ef22 shader\cocosui\positioncolortextureaspointsize_metal.ps
+66cb8616 
+68e0a6d2 pipeline\hdr_downsample2.nfx.json
+696b68d9 shader\new_effects\erosion_metal.ps
+69aa39fc pipeline\hdr_downsample2.fx
+69e586d0 shader\new_effects\blend_gl.ps
+6a1006d2 
+6a2af984 shader\simpletech_metal.vs
+6b441330 
+6ccc9e3b shader\blendadd.nfx.json
+6d1adbda 
+6d1bc3bd pipeline\hdr_downsample_metal.vs
+6e5c38c2 
+6e67f967 
+6ebd5a23 shader\cocosui\positiontexturecolor_metal.ps
+6f32e22d pipeline\decal_metal.ps
+6f725551 
+6fe14095 pipeline\distortion.fx
+6ff129bd pipeline\hdr_kawase2.nfx.json
+7025cc9c shader\blendadd.vs
+7075bdb7 shader\cocosui\positiontexturecoloralphatest_nomvp_gl.ps
+708e3d94 shader\cocosui\gray_gl.vs
+7156305e pipeline\hdr_kawase2_metal.ps
+71b287e6 shader\cocosui\positiontexture_ucolor_metal.ps
+7319015d shader\cocosui\positioncolor_gl.vs
+73420087 pipeline\pointwave.nfx
+7374b0ac shader\new_effects\blend_uv_mask.fx
+748f26fc shader\cocosui\positioncolor_metal.ps
+764a3650 
+7654594e pipeline\simple_hdr.fx
+76679804 pipeline\hdr_sample_metal.ps
+77442dfc pipeline\radial_blur.ps
+77cbfed2 
+77f2c28c 
+782c6dba pipeline\pointwave_gl.ps
+783c8ca0 
+78737ef6 shader\cocosui\labeloutline_metal.ps
+788ab7ee 
+789dafb6 shader\cocosui\labeldistancefieldglow.vs
+79777c03 shader\new_effects\erosion_gl.vs
+798ba2c2 shader\cocosui\labeldistancefieldglow.ps
+79bce492 shader\cocosui\positioncolor_nomvp_gl.ps
+79e1c142 pipeline\glow.fx
+7a73d68a 
+7ac0a734 
+7bf4063a pipeline\bloom.ps
+7bf7bb51 shader\cocosui\labeldistancefieldnormal.vs
+7bfbc4f1 shader\cocosui\positioncolortextureaspointsize_gl.ps
+7c5fe8c2 shader\blendadd_gl.ps
+7ca038b7 
+7d0490a0 pipeline\textures\mask.dds
+7d7e8cbf shader\new_effects\blend_uv_mask.nfx
+7dbca8f2 
+7e3563d9 shader\cocosui\positioncolor_gl.ps
+7e764201 pipeline\pointwave_metal.vs
+7f64eb21 shader\cocosui\positiontexturecolor_nomvp_gl.vs
+7fab666a shader\macro_const.xml
+7fc73016 
+7fd0e61c pipeline\decal_gl.vs
+801880a9 
+809128f8 pipeline\hdr_copy_gl.vs
+80ab163f shader\cocosui\positiontexturea8color_gl.ps
+8157e9d1 pipeline\hdr_adapt_gl.vs
+824c8fff shader\depth.fx
+82985624 shader\cocosui\labelnormal_metal.vs
+8298f510 pipeline\hdr_downsample.nfx
+832c69c2 pipeline\hdr_adapt.nfx.json
+83c78e45 
+843af35e pipeline\sun_shaft_gl.vs
+8493d06a shader\cocosui\positiontexture_ucolor.vs
+85151504 pipeline\dof_mobile_gl.vs
+851a60e7 pipeline\hdr_kawase0.fx
+8630dbd6 shader\cocosui\positiontexture_ucolor.ps
+877f69c1 
+87c988c8 
+8814a18a pipeline\hdr_downsample_gl.ps
+8823ffe0 shader\cocosui\positioncolor_nomvp_gl.vs
+88ae27b8 pipeline\simple_hdr_metal.vs
+88ff389d pipeline\hdr_kawase1_metal.vs
+89ac516f shader\cocosui\gray.vs
+8a6f6d5f 
+8b16ca2e 
+8b4d31a9 
+8bce74b1 
+8be6ed4a pipeline\emphasize.fx
+8c2b83ed 
+8c5b7608 
+8d326d05 
+8d870fb6 shader\cocosui\positioncolor_nomvp_metal.vs
+8d9b8f50 
+8ff850b1 
+9018b8d9 
+90876f18 
+90e739de pipeline\hdr_bright_metal.ps
+9111a0b0 pipeline\hdr_bright_gl.vs
+91a09636 pipeline\hdr_kawase2.fx
+91c321a4 
+9280e77c pipeline\color_adjust_gl.vs
+92f3cce1 
+93055077 
+935ab207 
+93996680 
+9426a483 pipeline\hdr_adapt_metal.ps
+9456c667 pipeline\hdr_kawase1_metal.ps
+9465fda9 pipeline\hdr_kawase1.nfx.json
+94c447c0 pipeline\light_prepass\spot_lighting.fx
+9551feeb 
+95a0e493 
+979a3ea9 pipeline\hdr_kawase2.nfx
+97c6cb93 pipeline\pointwave.spz
+97f998db shader\cocosui\positioncolorlengthtexture_metal.ps
+99260aac pipeline\hdr_sample_gl.ps
+9a38cd85 textures\noise.dds
+9ae2ccf7 
+9bcb322b shader\common_metal.vs
+9c726e6e pipeline\decal_metal.vs
+9c97518c 
+9df269da 
+9e689609 pipeline\dof_mobile.nfx
+9ed129fb outline.nfx
+9ed6b0b3 pipeline\hdr_kawase3_gl.ps
+9f255591 shader\cocosui\position_ucolor_metal.vs
+9f45c350 
+9fe13309 
+a046af8a shader\cocosui\positiontexturecolor_nomvp_metal.vs
+a08f0103 
+a1485abe shader\simpletech.nfx
+a18285f2 
+a1b5afe6 pipeline\hdr_adapt.fx
+a1f6de5e shader\skybox.fx
+a28478f7 shader\cocosui\positiontexture_metal.vs
+a2c36c76 pipeline\hdr_kawase2_metal.vs
+a2e13299 shader\cocosui\position_ucolor.ps
+a37c09c8 pipeline\color_grading.fx
+a4dcebd6 
+a540b200 
+a554db9f shader\cocosui\labelnormal.vs
+a5cd3edc shader\common_gl.vs
+a6433728 pipeline\hdr_kawase2_gl.ps
+a7f17a91 shader\cocosui\positiontexturea8color_gl.vs
+a8a97501 
+ab88b5e7 shader\cocosui\labeloutline_gl.vs
+abeb9c3f shader\simpletech.vs
+ac691722 pipeline\radial_blur_metal.ps
+ad171f4b pipeline\decal_gl.ps
+adad096b 
+adc319da shader\cocosui\positiontexture_ucolor_metal.vs
+ae1038be 
+aeb8e619 pipeline\radial_blur.nfx
+af1a7969 pipeline\hdr_kawase0_metal.vs
+aff5cbf6 shader\common_gl.ps
+b038d9a5 shader\cocosui\positiontexture_ucolor_gl.vs
+b0d27551 
+b242eea5 pipeline\simple_hdr_metal.ps
+b24fea80 
+b345290f 
+b34d17aa pipeline\hdr_kawase0_metal.ps
+b364d6c7 pipeline\bloom.fx
+b42f439f shader\cocosui\labelnormal.ps
+b47af91e pipeline\hdr_kawase1_gl.ps
+b48ef789 
+b57efdaf shader\cocosui\positioncolortextureaspointsize.ps
+b59bbcba 
+b624f12d 
+b6cb7af0 
+b6f5a52a 
+b763ba37 
+b79c6daf pipeline\hdr_sample.fx
+b96abddd 
+ba49d9fa pipeline\color_adjust_gl.ps
+bb56fc54 
+bb5f019d shader\cocosui\positioncolor.ps
+bba75d05 shader\blendadd_metal.ps
+bbaf8ec1 shader\cocosui\positioncolorlengthtexture_gl.ps
+bd15273d 
+bd1aba35 shader\simpletech_metal.ps
+bd59133f shader\cocosui\positioncolor_nomvp.ps
+bdc2c8d0 pipeline\hdr_kawase1_gl.vs
+bf43413d shader\cocosui\positiontexturecoloralphatest_gl.vs
+bf6bce1b pipeline\smooth_shadow.nfx
+bfcd943a shader\cocosui\position_ucolor.vs
+bff29a38 pipeline\pointwave.ps
+c012d989 shader\new_effects\erosion.nfx
+c05d69d0 cubemap\n2.cube
+c1379409 
+c16f1573 outline_gl.ps
+c28b440a pipeline\hdr_copy.nfx.json
+c2a0ac7b 
+c32e103d shader\cocosui\positioncolorlengthtexture.ps
+c3aa60d9 shader\new_effects\plasma_gl.vs
+c3dcbb45 shader\cocosui\positiontexture.vs
+c3de1336 
+c48e4b77 shader\new_effects\blend_uv_clamp.nfx
+c4eaf8c9 shader\cocosui\positiontexturecoloralphatest_gl.ps
+c5127c16 shader\new_effects\blend_uv_gl.ps
+c536743e shader\cocosui\labeloutline.vs
+c71f2499 pipeline\copy_gl.ps
+c85acf0d shader\cocosui\positiontexturecolor.ps
+c99f0350 pipeline\hdr_downsample_metal.ps
+ca4b2247 pipeline\pointwave_metal.ps
+ca81d81c pipeline\pointwave.vs
+cacdd21b pipeline\hdr_adapt_metal.vs
+caff72c0 
+cb049bbb pipeline\hdr_copy_metal.ps
+cc28ad6a outline.ps
+cc3ed6fa shader\cocosui\labeldistancefieldglow_metal.vs
+cca51b88 pipeline\decal.nfx
+ce0a56ff shader\cocosui\positioncolorlengthtexture_gl.vs
+ce510954 pipeline\radial_blur_metal.vs
+ce5f4738 pipeline\sun_shaft.fx
+ce8c00b8 shader\common.ps
+cf3dd66d 
+cf601c52 textures\noise_fade.dds
+cf60a42c 
+cf789331 
+cfe57914 
+d0613ff9 shader\cocosui\gray_metal.ps
+d0d4a658 pipeline\textures\dirt.dds
+d2060f32 pipeline\shadow_on_plane_metal.vs
+d2a3c8d5 shader\new_effects\plasma_metal.ps
+d2acd64c textures\grass_noise.dds
+d2f649f7 
+d49af7f5 shader\cocosui\labeldistancefieldnormal.ps
+d5d38165 pipeline\hdr_bright.nfx
+d5f2295f pipeline\hdr_kawase3_gl.vs
+d6645e63 
+d7592071 
+d7755551 shader\cocosui\positiontexturecolorgray_nomvp_gl.vs
+d81eb92c pipeline\dark_corner.fx
+d9237739 
+d94bfb84 pipeline\color_adjust.nfx
+da4111e1 shader\new_effects\erosion_metal.vs
+da9aa7ab 
+dae525dd 
+db15d3ee 
+db3ec44f 
+dc62ea78 pipeline\light_prepass\point_lighting.fx
+dca45168 
+dd3fae87 
+de10c7fd pipeline\hdr_kawase0_gl.vs
+de4e4be7 
+df6bd009 shader\cocosui\position_ucolor_gl.ps
+e2af15d5 shader\cocosui\positiontexture_ucolor_gl.ps
+e2e2bf66 
+e3ae2665 shader\cocosui\positioncolorlengthtexture.vs
+e4110e51 
+e51dac5e pipeline\copy_metal.ps
+e5dd09ae 
+e5fdf514 
+e63fd503 pipeline\hdr_bright.fx
+e7a0d0b2 pipeline\hdr_kawase2_gl.vs
+e8091aca 
+ea63f349 pipeline\radial_blur_gl.vs
+eab5b9e0 
+eabf5fa3 
+eb1fe63e 
+eb44f37a pipeline\hdr_kawase3.nfx
+ebcba3a3 
+ebfe088c shader\cocosui\positiontexturecoloralphatest_nomvp.vs
+ec8c968f 
+ecdd74d2 
+ed2d9a0b shader\waterrefraction.fx
+eee583de shader\cocosui\positioncolor_metal.vs
+ef7bed6f pipeline\smooth_shadow_gl.vs
+efc8871d pipeline\hdr_bright_gl.ps
+eff900cf shader\cocosui\positiontexturecoloralphatest_nomvp_gl.vs
+f076d51e pipeline\hdr_kawase0_gl.ps
+f15de81b pipeline\hdr_bright.nfx.json
+f27fae81 shader\cocosui\positioncolortextureaspointsize_gl.vs
+f29bc48e shader\new_effects\blend.fx
+f3376469 
+f3695683 shader\new_effects\blend_uv_metal.vs
+f48c4612 pipeline\sun_shaft.nfx
+f58597a5 shader\cocosui\positiontexture_gl.vs
+f649676a 
+f801a5b4 
+f80a5bea shader\cocosui\positiontexturecoloralphatest_nomvp.ps
+f858033a shader\simpletech.spzs
+f8bf8abc shader\cocosui\positiontexturecolor_metal.vs
+f9870157 shader\softparticle.fx
+f9936e81 pipeline\hdr_copy_gl.ps
+f9e2ac6d shader\new_effects\plasma_gl.ps
+fab78c99 pipeline\hdr_adapt_gl.ps
+fae4f4f9 
+faee1033 
+fb6fe86e 
+fb85e73e pipeline\hdr_copy.nfx
+fbd3040a shader\cocosui\labeldistancefieldglow_gl.vs
+fc127b19 shader\cocosui\positiontexturecolor_nomvp.ps
+fe365049 
+fe6e0721 
+fecc0399 shader\cocosui\labelnormal_gl.vs
+feef81f5 shader\simpletech_gl.ps
